@@ -1,4 +1,5 @@
-# SafeServe Metro Web Application: https://safeservemetro.com/
+<h1 align="center">SafeServe Metro Web Application</h1>
+<p align="center"><a href="https://safeservemetro.com/">https://safeservemetro.com/</a></p>
 A single page application created for a food safety business that features an account system, contact us form and a lot more. This site is active so project secrets (API keys/ENV variables/etc..) have been removed.
 <hr>
 <h3> Notable Application Features:</h3>
@@ -9,4 +10,3 @@ A single page application created for a food safety business that features an ac
  - Fully built authentication system for user accounts/access codes that utilizes web tokens
  - Auto account generation system that communicates with Square servers via webhooks to create new access codes instantly
  - Response site design that works on phones, tablets, laptops as well as desktops.
- - RESTful API that was built using NodeJS

@@ -1,0 +1,41 @@
+<div class="container mt-5"  id="login_frame">
+<div class="alert alert-danger text-center" role="alert" *ngIf="badLogin">
+  <div class="alert-message">
+    Invalid access code was entered. Please try again.
+  </div>
+</div>
+  <div class="row d-flex justify-content-center align-items-center">
+    <div class="col col-xl-10">
+      <div class="card" id="login_card">
+        <div class="row g-0">
+          <div class="col-md-6 col-lg-5 d-none d-md-block">
+            <img src="assets/img/login/elearn.png"
+              alt="Online guided food safety course to access course material and content, including practice tests." class="img-fluid" id="login_img" />
+          </div>
+          <div class="col-md-6 col-lg-7 d-flex align-items-center">
+            <div class="card-body p-4 p-lg-5 text-black">
+
+              <form *ngIf="loginForm" [formGroup]="loginForm" (ngSubmit)="login()">
+                <div class="d-flex align-items-center mb-3 pb-1">
+                  <i class="fas fa-cubes fa-2x me-3"></i>
+                  <span class="h1 fw-bold mb-0">Course Login</span>
+                </div>
+
+                <h5 class="fw-normal mb-3 pb-3" style="letter-spacing: 1px;">Sign in with the access code sent to your email after purchase.</h5>
+
+                <div class="form-floating mb-3">
+                  <input formControlName="accessCode" class="form-control" id="floatingInput" placeholder="Access Code">
+                </div>
+
+                <div class="pt-5 mb-4">
+                  <button class="btn btn-primary btn-lg btn-block" id="login_btn" type="submit">Sign in</button>
+                </div>
+              </form>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,10 @@
+::ng-deep .dropdown-menu { width: 100%; }
+
+::ng-deep .mat-tab-label {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
+
+::ng-deep .mat-tab-label.mat-tab-label-active {
+    background-color: #e0e0e0;
+}

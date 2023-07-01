@@ -1,0 +1,4231 @@
+{
+    "1": {
+        "title": "Chapter 1 Quiz",
+        "questions": [
+            {
+                "questionid": 0,
+                "question": "Why are preschool age children at a higher risk for a foodborne illness?",
+                "choices": [
+                    "They are more likely to spend time in the hospital if they get sick",
+                    "They have not yet built up a strong immune system",
+                    "They are more likely to suffer allergic reactions",
+                    "They are more susceptible to choking hazards"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 1,
+                "question": "Which is a common food allergen",
+                "choices": [
+                    "Bread",
+                    "Uncut lettuce",
+                    "Strawberries",
+                    "Soy"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 2,
+                "question": "The five common mistakes that can lead to foodborne illness are failing to cook food adequately, holding food at incorrect temperatures, using contaminated equipment, practicing poor personal hygiene, and",
+                "choices": [
+                    "reheating leftover food",
+                    "serving ready to eat food",
+                    "using single use, disposable gloves",
+                    "purchasing food from unsafe sources"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 3,
+                "question": "Raw chicken breasts are left out at room temperature on a prep table. What is the main risk that can cause a foodborne illness?",
+                "choices": [
+                    "Cross-contamination",
+                    "Poor cleaning and sanitizing",
+                    "Poor personal hygiene",
+                    "Time-temperature abuse"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 4,
+                "question": "A server cleans a dining table with a wiping cloth and that has been in her apron pocket. What is the risk that could cause foodborne illness?",
+                "choices": [
+                    "Cross-contamination",
+                    "Poor cleaning and sanitizing",
+                    "Poor personal hygiene",
+                    "Time-temperature abuse"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 5,
+                "question": "Which is an example of physical contamination?",
+                "choices": [
+                    "Sneezing on hand",
+                    "Touching dirty food contact surfaces",
+                    "Cooking tomato sauce in a copper pan",
+                    "Bones in boneless chicken breast"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 6,
+                "question": "What at-risk group is not typically served in an institutional setting?",
+                "choices": [
+                    "Children",
+                    "Pregnant women",
+                    "Elderly",
+                    "Sick/Ill"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 7,
+                "question": "What is a potential source of a physical contaminant?",
+                "choices": [
+                    "Sanitizer",
+                    "Jewelry",
+                    "Sweat",
+                    "Hand sanitizer"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 8,
+                "question": "What type of eggs must be used when preparing a recipe that contains eggs for high risk populations?",
+                "choices": [
+                    "Pasteurized",
+                    "Shelled",
+                    "Hard boiled",
+                    "Eggs must not be served to high risk populations"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 9,
+                "question": " A local nursing home is having a yearly barbecue for its residents. Which item should not be served?",
+                "choices": [
+                    "Deviled eggs",
+                    "Potato salad",
+                    "Raw carrots",
+                    "Rare hamburger"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 10,
+                "question": "Why are people who take certain medications at risk for foodborne illness?",
+                "choices": [
+                    "They only eat TCS food",
+                    "They have not built up a strong immune system",
+                    "Their immune systems can be compromised",
+                    "The medications will upset their stomach"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 11,
+                "question": "Hospital dietary employees are creating a new menu for breakfast for the patients. Which item is not safe to serve?",
+                "choices": [
+                    "Pancakes",
+                    "Soft boiled eggs",
+                    "Corned beef hash",
+                    "Mayonnaise"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 12,
+                "question": "Residual detergent left on a glass from using too much dish washing detergent is a form of what type of contamination?",
+                "choices": [
+                    "Biological",
+                    "Physical",
+                    "Chemical",
+                    "Cross contamination"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 13,
+                "question": "Saliva from chewing gum in a food prep area can pose what type of contamination?",
+                "choices": [
+                    "Biological",
+                    "Chemical",
+                    "Physical",
+                    "Toxin"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 14,
+                "question": "The exterminator sprays the food establishment to control pests. The spray that the exterminator uses has a potential for what type of hazard?",
+                "choices": [
+                    "Biological",
+                    "Physical",
+                    "Toxicological",
+                    "Chemical"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 15,
+                "question": "A foodborne illness is",
+                "choices": [
+                    "bulimia or anorexia",
+                    "food that is left out too long",
+                    "a disease transmitted to people through food",
+                    "Covid-19"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 16,
+                "question": "Poultry, cooked rice, cut leafy greens, and seafood are examples of which of the following?",
+                "choices": [
+                    "TCS foods",
+                    "Read to eat foods",
+                    "Shelf stable foods",
+                    "Non-perishable foods"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 17,
+                "question": "Once a Food Safety Manager is certified, the certification",
+                "choices": [
+                    "Follows the person receiving the certification",
+                    "Pertains to the entire establishment, even if the person who is certified leaves the establishment",
+                    "Certifies everyone in the establishment who works with the Food Safety Manager",
+                    "Also certifies only the owner or the supervisor"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 18,
+                "question": "Dust from dirty vents is what type of contamination?",
+                "choices": [
+                    "Physical",
+                    "Biological",
+                    "Chemical",
+                    "Cross contamination"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 19,
+                "question": "The presence of metal shavings in a can of fruit cocktail is what type of contamination?",
+                "choices": [
+                    "Chemical",
+                    "Physical",
+                    "Biological",
+                    "Cross contamination"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    "2": {
+        "title": "Chapter 2 Quiz",
+        "questions": [
+            {
+                "questionid": 0,
+                "question": "What are the most common symptoms of a foodborne illness?",
+                "choices": [
+                    "Diarrhea, vomiting, fever, nausea, abdominal cramps, and pneumonia",
+                    "Diarrhea, vomiting, fever, nausea, abdominal cramps, and blindness",
+                    "Diarrhea, vomiting, fever, nausea, abdominal cramps, and jaundice",
+                    "Diarrhea, vomiting, fever, nausea, abdominal cramps, and COVID"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 1,
+                "question": "What is the most important way to prevent a foodborne illness from bacteria?",
+                "choices": [
+                    "Control time and temperature",
+                    "Prevent cross contact",
+                    "Practice good personal hygiene",
+                    "Practice correct cleaning and sanitizing"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 2,
+                "question": "Enterohemorrhagic and shiga toxin producing E. coli are commonly linked with what type of food?",
+                "choices": [
+                    "Potato salad",
+                    "Thick stews",
+                    "Dairy products",
+                    "Raw ground beef"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 3,
+                "question": "What is the most important way to prevent a foodborne illness from viruses?",
+                "choices": [
+                    "Control time and temperature",
+                    "Prevent cross contamination",
+                    "Practice good personal hygiene",
+                    "Practice correct cleaning and sanitizing"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 4,
+                "question": "A customer called a food service operation and told the manager about getting sick after eating there. The customer complained of vomiting and diarrhea a few hours after eating raw oysters. What pathogen probably caused the illness?",
+                "choices": [
+                    "Bacillus",
+                    "Shigella spp.",
+                    "Salmonella",
+                    "Enterohemorrhagic and shiga toxin producing E.coli"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 5,
+                "question": "Parasites are commonly linked with what type of food?",
+                "choices": [
+                    "Rice",
+                    "Poultry",
+                    "Seafood",
+                    "Canned food"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 6,
+                "question": "A Customer had a reversal of hot and cold sensations after eating seafood. What most likely caused the illness?",
+                "choices": [
+                    "Toxin",
+                    "Virus",
+                    "Bacteria",
+                    "Parasite"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 7,
+                "question": "Which pathogens are found high in numbers in an infected person's feces, are highly infectious, and can cause severe illness?",
+                "choices": [
+                    "Histamine, mold, fungi, ciguatoxin, and domoic acid",
+                    "Hepatitis A, Norovirus, Salmonella Typhi, Shigella spp., and enterohemorrhagic and shiga toxin-producing E. coli.",
+                    "Anisakis simplex, Cryptosporidium parvum, Giardia duodenalis, Vibrio vulnificus, and Clostridium botulinum",
+                    "Bacillus cereus, Listeria monocytogenes, Clostridium perfringens, saxitoxin, and brevitoxin"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 8,
+                "question": "What FAT TOM condition will a foodservice operation be most able to control?",
+                "choices": [
+                    "Acidity",
+                    "Time",
+                    "Oxygen",
+                    "Moisture"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 9,
+                "question": "What pathogen can be controlled by washing hands and controlling flies inside and outside the foodservice operation?",
+                "choices": [
+                    "Hepatitis A",
+                    "Shigella spp.",
+                    "Clostridium botulinum",
+                    "Vibrio parahaemolyticus"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 10,
+                "question": "What is The Food Temperature Danger Zone?",
+                "choices": [
+                    "70⁰F to 145⁰F",
+                    "41⁰F to 145⁰F",
+                    "41⁰F to 135⁰F",
+                    "70⁰F to 135⁰F"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 11,
+                "question": "Which disease is the greatest threat to food service establishments and is the cause for over half of all of the reported cases of foodborne illnesses each year?",
+                "choices": [
+                    "E.coli",
+                    "Influenza",
+                    "Norovirus",
+                    "COVID-19"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 12,
+                "question": "What is a source of the virus that causes Hepatitis A?",
+                "choices": [
+                    "Fresh poultry",
+                    "Feces contaminated water",
+                    "Chocolate cake",
+                    "Raw hamburger"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 13,
+                "question": "What factor is the least likely way food is to become contaminated?",
+                "choices": [
+                    "How equipment is cleaned and sanitized",
+                    "Improper hand washing",
+                    "How equipment is stored",
+                    "The type of food"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 14,
+                "question": "The F in FAT TOM stands for",
+                "choices": [
+                    "Potentially hazardous food (TCS Food)",
+                    "Fish",
+                    "Final growth of food bacteria",
+                    "Cross contact when frying"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 15,
+                "question": "What is the lower range of The Food Temperature Danger Zone?",
+                "choices": [
+                    "32⁰F",
+                    "0⁰F",
+                    "42⁰F",
+                    "41⁰F"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 16,
+                "question": "What is the ideal level of water activity in food for the growth of bacteria?",
+                "choices": [
+                    "0.85 or higher",
+                    "0.50 or lower",
+                    "0.35 or lower",
+                    "0.25 or lower"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 17,
+                "question": "Bacterial growth in food is least affected by the foods",
+                "choices": [
+                    "acidity level",
+                    "moisture",
+                    "texture",
+                    "oxygen"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 18,
+                "question": "Bacteria grows at a very rapid pace after how many hours?",
+                "choices": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "correct": 4
+            },
+            {
+                "questionid": 19,
+                "question": "Virus are transferred from",
+                "choices": [
+                    "person to person, from people to food and from people to food contact surfaces",
+                    "toxins",
+                    "parasites",
+                    "histamine"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    "3" : {
+        "title": "Chapter 3 Quiz",
+        "questions": [
+            {
+                "questionid": 0,
+                "question": "After which activity must food handlers wash their hands?",
+                "choices": [
+                    "Putting on gloves",
+                    "Serving customers",
+                    "Applying hand antiseptic",
+                    "Clearing tables"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 1,
+                "question": "What should food handlers do after prepping food and before using the restroom?",
+                "choices": [
+                    "Put away all supplies",
+                    "Take off their hats",
+                    "Change their gloves",
+                    "Take off their apron"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 2,
+                "question": "Which piece of jewelry can be worn on a food handlers hand or arm?",
+                "choices": [
+                    "Watch",
+                    "Diamond ring",
+                    "Plain band ring",
+                    "Medical bracelet"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 3,
+                "question": "When should hand antiseptics be used?",
+                "choices": [
+                    "After washing hands",
+                    "Before washing hands",
+                    "When soap is unavailable",
+                    "When gloves are not being used"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 4,
+                "question": "When should food handlers who wear gloves wash their hands?",
+                "choices": [
+                    "Before taking a break",
+                    "Before going home for the day",
+                    "Before putting on gloves",
+                    "After applying hand antiseptic"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 5,
+                "question": "A cook wore single use gloves while forming raw ground beef into patties. The cook continued to wear the gloves while slicing hamburger buns. What mistake was made?",
+                "choices": [
+                    "The cook did not wear reusable gloves while handling the raw ground beef and the hamburger buns.",
+                    "The cook did not clean and sanitize the gloves before handling the hamburger buns.",
+                    "The cook did not wash, rinse and sanitize his/her gloves before slicing the hamburger buns.",
+                    "The cook did not wash his/her hands and put on new gloves before slicing the hamburger buns."
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 6,
+                "question": "A food handler has been diagnosed with an illness from Shigella spp. What should the manager tell the food handler to do?",
+                "choices": [
+                    "Stay home until a doctor approves him to return to work.",
+                    "Wear gloves while handling all foods.",
+                    "Work only in a non-food handling position.",
+                    "Be put on as a greeter."
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 7,
+                "question": "A food handler prepares and delivers meals to elderly individuals receiving cancer care services at home. What symptoms require this food handler to stay home from work?",
+                "choices": [
+                    "Thirst and itching",
+                    "Soreness and fatigue",
+                    "Sore throat with fever",
+                    "Headache and soreness"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 8,
+                "question": "When is it acceptable to eat in an operation?",
+                "choices": [
+                    "When prepping food",
+                    "When washing dishes",
+                    "When sitting in a break area",
+                    "When handling utensils"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 9,
+                "question": "What should a manager of a hospital cafeteria do if a cook calls in with a headache, nausea and diarrhea?",
+                "choices": [
+                    "Tell the cook to stay away from work and see a doctor.",
+                    "Tell the cook to come in for a couple of hours to only clean the floor and then go home.",
+                    "Tell the cook to rest for a couple of hours and come to work if he no longer has any symptoms.",
+                    "Tell the cook to go to the doctor and then immediately come to work with a note."
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 10,
+                "question": "All of the following are bad personal habits that can contaminate food except:",
+                "choices": [
+                    "An employee that touches his hair often",
+                    "An employee who picks her teeth",
+                    "An employee who is rude",
+                    "An employee who puts his hands in his pockets and under his arms often"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 11,
+                "question": "Food could be easily contaminated by an employee who:",
+                "choices": [
+                    "Has several tattoos",
+                    "Has his nose pierced",
+                    "Wears shorts and open toed shoes to work",
+                    "Has several rings and bracelets on each hand"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 12,
+                "question": "Drinking in the kitchen and other food preparation area is:",
+                "choices": [
+                    "Never allowed",
+                    "Allowed only if the beverage is in a covered disposable container, with a straw and kept away from food and equipment",
+                    "Allowed only if it is a doctor prescribed medication",
+                    "Allowed if the beverage is in a gym bottle with a lid and a straw"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 13,
+                "question": "A food handler reported to work at 9:00 a.m. and took a break at 2:00 p.m. The food handler returned from her break at 2:30 p.m. and went home at 5:30 p.m When must the food handler wash her hands?",
+                "choices": [
+                    "At 9:00 a.m., 2:00 p.m., 2:30 p.m. and 5:30 p.m.",
+                    "At 9:00 a.m. and 2:30 p.m.",
+                    "At 9:00 a.m. and 5:30 p.m.",
+                    "At 2:00 p.m., 3:30 p.m. and 5:30 p.m."
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 14,
+                "question": "Hands must be washed after which of the following tasks:",
+                "choices": [
+                    "After shaking hands with a customer and returning to handle food",
+                    "After using a hand antiseptic",
+                    "After going home",
+                    "After putting in hand soap and then immediately taking a break"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 15,
+                "question": "Hand washing sinks must be equipped with running water capable of reaching what temperature?",
+                "choices": [
+                    "90ºF",
+                    "95ºF",
+                    "100ºF",
+                    "110ºF"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 16,
+                "question": "Long hair should be held with a",
+                "choices": [
+                    "restraint",
+                    "ponytail",
+                    "clip",
+                    "rubber band"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 17,
+                "question": "Which disease is not transmitted through food?",
+                "choices": [
+                    "Norovirus",
+                    "Acquired Immune Deficiency Syndrome (AIDS)",
+                    "Hepatitis A",
+                    "E. coli"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 18,
+                "question": "The total hand washing process should take at least how long?",
+                "choices": [
+                    "10 to 15 seconds",
+                    "20 seconds",
+                    "25 seconds",
+                    "12 seconds"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 19,
+                "question": "Gloves must be changed at least how many hours, even if the task is not changed and they are not dirty or torn?",
+                "choices": [
+                    "Every 2 hours",
+                    "Every 3 hours",
+                    "Every 4 hours",
+                    "Every 5 hours"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    "4" : {
+        "title": "Chapter 4 Quiz",
+        "questions": [
+            {
+                "questionid": 0,
+                "question": "A food handler has finished trimming raw chicken on a cutting board and now needs to prep vegetables. What must be done to the cutting board?",
+                "choices": [
+                    "It must be wiped with sanitizer and dried with a paper towel to avoid chemical contamination",
+                    "It must be turned over to the other side for fresh use",
+                    "It must be washed, rinsed and sanitized and air-dried",
+                    "It must be washed in hot water and air-dried."
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 1,
+                "question": "How far must a bimetallic thermometer be inserted into food to give an accurate reading?",
+                "choices": [
+                    "Up to the tip of the thermometer stem",
+                    "Just past the tip of the thermometer stem",
+                    "Past the dimple of the thermometer stem",
+                    "Up to the dimple of the thermometer stem"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 2,
+                "question": "What probe should be used to check the temperature of a large stockpot of chili?",
+                "choices": [
+                    "Air probe",
+                    "Surface probe",
+                    "Immersion probe",
+                    "Penetration probe"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 3,
+                "question": "What device can be used to record time-temperature abuse during the delivery of food?",
+                "choices": [
+                    "Thermocouple",
+                    "Thermistor",
+                    "Time-temperature indicator",
+                    "Bimetallic stemmed thermometer"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 4,
+                "question": "At what temperature do most foodborne pathogens grow rapidly?",
+                "choices": [
+                    "Between 0ºF and 41ºF",
+                    "Between 41ºF and 135ºF",
+                    "Between 135ºF and 145ºF",
+                    "Between 155º and 165ºF"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 5,
+                "question": "Which type of thermometer can read the temperature without touching the items surface?",
+                "choices": [
+                    "TTI",
+                    "Infrared",
+                    "Air probe",
+                    "Immersion probe"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 6,
+                "question": "A thermometer used to measure the temperature of food must be accurate to how many degrees?",
+                "choices": [
+                    "±2ºF",
+                    "±4ºF",
+                    "±6ºF",
+                    "±8ºF"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 7,
+                "question": "Which of the following is an example of cross-contamination?",
+                "choices": [
+                    "Sanitizer solution spilled into the salad dressing",
+                    "Using the same knife that was used to trim meat to cut tomatoes immediately after",
+                    "A band-aid in the soup",
+                    "Chewing gum while preparing food"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 8,
+                "question": "Cross contamination can be prevented by:",
+                "choices": [
+                    "Preparing raw foods and ready-to-eat (RTE) foods at separate times",
+                    "Cleaning and sanitizing equipment after each use then using a cloth to dry the equipment",
+                    "Cooking food to the required minimal internal temperature",
+                    "Adding extra sanitizer"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 9,
+                "question": "What temperature should the thermometer read when calibrating it with the ice-point method?",
+                "choices": [
+                    "12ºF",
+                    "36ºF",
+                    "32ºF",
+                    "41ºF"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 10,
+                "question": "You are checking the temperature of chicken breast to ensure that it has reached the correct cooking temperature. You should insert the thermometer",
+                "choices": [
+                    "in the dense part of the meat",
+                    "in the thickest part of the meat",
+                    "towards the end of the cooking time",
+                    "towards the grill"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 11,
+                "question": "Flow of food refers to",
+                "choices": [
+                    "The path food takes from purchasing, receiving, storing, prepping, cooking, holding, cooling, reheating and serving",
+                    "The path of food where cross-contact will occur",
+                    "The path towards tracing back a foodborne illness",
+                    "The path of food that requires no monitoring"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 12,
+                "question": "The transfer of pathogens from one surface to another refers to",
+                "choices": [
+                    "Cross-contact",
+                    "Chemical contamination",
+                    "Cross-contamination",
+                    "Food Defense"
+                ],
+                "correct":2
+            },
+            {
+                "questionid": 13,
+                "question": "Food is time-temperature abused any time it remains between:",
+                "choices": [
+                    "40ºF and 32ºF",
+                    "41ºF and 135ºF",
+                    "32º and 41ºF",
+                    "136ºF and 142ºF"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 14,
+                "question": "Buying prepared food, such as pre-packaged cut lettuce helps to prevent",
+                "choices": [
+                    "Cross-contact",
+                    "Cross-contamination",
+                    "Physical hazards in foods",
+                    "Time-temperature abuse"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 15,
+                "question": "If a food handler notices that time and temperature standards are not being met in a pot of soup, the food handler may",
+                "choices": [
+                    "take corrective action by re-heating the soup (to 165ºF) if it has not been time-temperature abused for more than four (4) hours",
+                    "add more heat to kill any pathogens in the soup",
+                    "immediately freeze the soup and re-heat it at a later date",
+                    "immediately serve the soup as samples, as long as customers are not charged for it"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 16,
+                "question": "If a thermometer is dropped or bumped, it must be",
+                "choices": [
+                    "washed, rinsed and sanitized",
+                    "calibrated, washed, rinsed, sanitized and air-dried",
+                    "re-calibrated",
+                    "washed, rinsed, sanitized and air-dried"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 17,
+                "question": "Before recording the temperature of a food with a thermometer",
+                "choices": [
+                    "wait until the food appears fully cooked",
+                    "have a pencil and paper ready",
+                    "make sure the thermometer reading is steady and the thermometer is in the thickest part of the food",
+                    "have a pen/pencil, paper and a clock ready to write down the reading and the time it was taken"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 18,
+                "question": "Two major categories of concern in the flow of food are",
+                "choices": [
+                    "the accuracy of thermometers and dirty cutting boards",
+                    "glass thermometers that may shatter in the food and un-calibrated thermometers",
+                    "cleaning and sanitizing and cross-contact",
+                    "cross-contamination and time-temperature abuse"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 19,
+                "question": "A chef was cited for prepping raw chicken and then fresh herbs on the same cutting board, without cleaning, rinsing, sanitizing and letting the cutting board air-dry. This citation by the health department is a result of",
+                "choices": [
+                    "Physical contamination in food",
+                    "Cross-contamination",
+                    "Cross-contact",
+                    "Poor personal hygiene"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    "5" : {
+        "title": "Chapter 5 Quiz",
+        "questions": [
+            {
+                "questionid": 0,
+                "question": "What is the most important factor in choosing a food supplier?",
+                "choices": [
+                    "The supplier has a HACCP plan or other food safety program in place.",
+                    "The supplier has documented GMP and GAP in place.",
+                    "The warehouse is close to your food service operation, reducing shipping times.",
+                    "The supplier has been inspected by the local regulatory authority and complies with all local, state and federal laws."
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 1,
+                "question": "What is the best method for checking the temperature of a delivery of fresh fish?",
+                "choices": [
+                    "Feel the fish, making sure it is cold to the touch",
+                    "Insert the thermometer probe into the thickest part of the fish",
+                    "Place a time-temperature indicator on the surface of the fish",
+                    "Use an infrared thermometer to check the temperature of the fish"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 2,
+                "question": "What is the correct temperature for receiving cold TCS food except for milk, eggs and shellfish?",
+                "choices": [
+                    "32ºF or lower",
+                    "51ºF or lower",
+                    "41ºF or lower",
+                    "45ºF or lower"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 3,
+                "question": "Milk can be received at 45ºF under what condition?",
+                "choices": [
+                    "It is discarded after 2 days",
+                    "It is cooled to 41ºF or lower within 4 hours",
+                    "It is immediately cooled to 41ºF or lower",
+                    "It is served or used in the operation within 2 hours"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 4,
+                "question": "Frozen shrimp is rejected during receiving for having large ice crystals on the food and the packaging. What is the problem that caused this?",
+                "choices": [
+                    "Cross-contact",
+                    "Cross-contamination",
+                    "Time-temperature abuse",
+                    "Food defense"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 5,
+                "question": "What is required when receiving fish that will be served raw or partially cooked?",
+                "choices": [
+                    "It must be packed in ice",
+                    "It must be thawed in the microwave or running cold water",
+                    "It must be have an expiration date",
+                    "It must be correctly frozen before you receive it"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 6,
+                "question": "Live shellfish must be received with what documentation?",
+                "choices": [
+                    "USDA inspection stamp",
+                    "USDA grading stamp",
+                    "FDA certified fishery tag",
+                    "Shellstock identification tag"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 7,
+                "question": "How should cartons of coleslaw be checked for the correct receiving temperature?",
+                "choices": [
+                    "Check the interior temperature of the delivery truck",
+                    "Open a carton and insert the thermometer stem into the food",
+                    "Place the thermometer between two cartons",
+                    "Touch the base of the carton to see if it cold"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 8,
+                "question": "What should be done with an item that has been recalled?",
+                "choices": [
+                    "Throw it out immediately",
+                    "Arrange a pick-up from the vendor and request a refund",
+                    "Record the quantity of items and place behind stored items for later pick-up",
+                    "Remove the item from inventory, label it as a do not use/recall item, and place it in a secure location away from other food items"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 9,
+                "question": "Cleaning the surfaces of some otherwise undented and acceptable cans is an example of",
+                "choices": [
+                    "reconditioning",
+                    "corrective action",
+                    "calibrating",
+                    "documenting"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 10,
+                "question": "Hot baked beans are delivered to an off-site event. What is the minimum internal temperature that the beans should be received at?",
+                "choices": [
+                    "165ºF",
+                    "135ºF",
+                    "71ºF",
+                    "41ºF"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 11,
+                "question": "Shell eggs may be received at what temperature?",
+                "choices": [
+                    "32ºF or lower",
+                    "45ºF or lower",
+                    "50ºF or lower",
+                    "51ºF or lower"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 12,
+                "question": "Key drop deliveries occur",
+                "choices": [
+                    "when the operation is too busy to properly inspect deliveries",
+                    "after the operation is closed for business",
+                    "when the food safety manager designates a person to inspect all deliveries",
+                    "when a food item is not delivered properly"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 13,
+                "question": "Which food must be received at 41ºF or lower?",
+                "choices": [
+                    "Shell eggs",
+                    "Milk",
+                    "Live crabs",
+                    "Cut green leafy vegetables"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 14,
+                "question": "A carton of flour has water stains on the bottom, but is free of pests and shows no evidence that it has been opened. The delivery must be",
+                "choices": [
+                    "rejected",
+                    "reconditioned",
+                    "put into a clean and sanitized container with a tight fitting lid",
+                    "transferred to another carton if the flour is to be stored for later use"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 15,
+                "question": "What is the most important factor when receiving a shipment of fresh chicken breasts?",
+                "choices": [
+                    "that the label is fully intact",
+                    "that they are received at the correct time and temperature",
+                    "that they are received at the correct temperature",
+                    "that the driver presents correct paperwork"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 16,
+                "question": "Which federal agency inspects meat processing facilities and places the food inspection stamp?",
+                "choices": [
+                    "USDA",
+                    "FDA",
+                    "CDC",
+                    "OSHA"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 17,
+                "question": "Frozen food must be received",
+                "choices": [
+                    "at 21ºF or below",
+                    "hard to the touch with no evidence of ice crystals",
+                    "in a refrigerated truck",
+                    "with a certificate showing evidence of proper freezing"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 18,
+                "question": "If cut melon is delivered at 45ºF what must be done with it?",
+                "choices": [
+                    "refrigerate it immediately",
+                    "serve it immediately",
+                    "reject it",
+                    "cooled to 41ºF or lower within four (4) hours"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 19,
+                "question": "Canned foods are dangerous if",
+                "choices": [
+                    "the outside of the can is dusty",
+                    "the box in which they were shipped has a water stain",
+                    "the can has a swollen top or bottom",
+                    "the can has a torn label"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    "6" : {
+        "title": "Chapter 6 Quiz",
+        "questions": [
+            {
+                "questionid": 0,
+                "question": "What is the maximum water temperature allowed when thawing food under running water?",
+                "choices": [
+                    "70°F",
+                    "65°F",
+                    "60°F",
+                    "55°F"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 1,
+                "question": "What must food handlers do to food immediately after thawing it in the microwave oven?",
+                "choices": [
+                    "Hold it",
+                    "Cook it",
+                    "Cool it",
+                    "Freeze it"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 2,
+                "question": "What can occur if prep tables are not cleaned and sanitized between uses?",
+                "choices": [
+                    "Chemical contamination",
+                    "Toxic metal poisoning",
+                    "Physical contamination",
+                    "Cross contamination"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 3,
+                "question": "A food handler thaws several frozen turkeys on a prep table. What is the danger that this poses to food?",
+                "choices": [
+                    "Cross contact",
+                    "Cross contamination",
+                    "Time-temperature abuse",
+                    "Physical contamination"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 4,
+                "question": "A food handler pulled an entire bowl of tuna salad from the cooler and kept it out to prepare sixty tuna salad sandwiches. He then went on to reheat soup. What is the potential problem with this situation?",
+                "choices": [
+                    "Toxic contamination of the food",
+                    "Cross-contamination",
+                    "Time-temperature abuse",
+                    "Poor cleaning and sanitizing"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 5,
+                "question": "What is the minimum internal cooking temperature for stuffed pork chops?",
+                "choices": [
+                    "135°F for 15 seconds",
+                    "145°F for 15 seconds",
+                    "155°F for 15 seconds",
+                    "165°F for 15 seconds"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 6,
+                "question": "A food handler is about to reheat a beef stew. To what temperature must the cook reheat the stew before serving to the customer? ",
+                "choices": [
+                    "165°F for 15 seconds",
+                    "145°F for 15 seconds",
+                    "135° F for 15 seconds",
+                    "125° F for 15 seconds"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 7,
+                "question": "A chef made a pot of soup that will be hot held at a buffet table then cooled it correctly. To what temperature must the soap be reheated?",
+                "choices": [
+                    "165°F for 15 seconds",
+                    "155°F for 15 seconds",
+                    "To any temperature, as long as the food was cooked and cooled correctly",
+                    "141°F for 15 seconds"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 8,
+                "question": "Commercially processed and packaged ready-to-eat food (such as cheese sticks and deep-fried vegetables) must be reheated to internal temperature of at least",
+                "choices": [
+                    "165°F",
+                    "155°F",
+                    "145°F",
+                    "135°F"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 9,
+                "question": "A factor of to consider when cooling food is its",
+                "choices": [
+                    "thickness",
+                    "density",
+                    "consistency",
+                    "texture"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 10,
+                "question": "What is the minimum cooking temperature for shell eggs that will be served immediately?",
+                "choices": [
+                    "165°F for 15 seconds",
+                    "155°F for 15 seconds",
+                    "145°F for 15 seconds",
+                    "135°F for 15 seconds"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 11,
+                "question": "Frozen ground beef patties should be cooked to a minimum internal temperature of",
+                "choices": [
+                    "165°F for 15 seconds",
+                    "155°F for 15 seconds",
+                    "145°F for 15 seconds",
+                    "135°F for 15 seconds"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 12,
+                "question": "What is the minimum internal cooking temperature for raw meat cooked in the microwave?",
+                "choices": [
+                    "Raw meat must never be cooked in the microwave",
+                    "135°F",
+                    "155°F",
+                    "165°F"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 13,
+                "question": "What is the correct way to get ice from the ice machine?",
+                "choices": [
+                    "Dip a clean and sanitized glass into the ice",
+                    "Use tongs to get the ice",
+                    "Use a washed, rinsed and sanitized ice scoop",
+                    "Use clean, new gloves to pick up the ice and place ice in a cup"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 14,
+                "question": "Which food should be washed thoroughly under running water before cutting, cooking or combining with other ingredients?",
+                "choices": [
+                    "shell eggs",
+                    "any dairy product",
+                    "all beef products",
+                    "fruits and vegetables"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 15,
+                "question": "What food should not be served to a person in a high risk population?",
+                "choices": [
+                    "Hamburger cooked in the microwave",
+                    "Sausage links",
+                    "Raw seed sprouts",
+                    "Shell egg omelet"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 16,
+                "question": "Cut cantaloupe should be held at what temperature before serving?",
+                "choices": [
+                    "32°F or lower",
+                    "41°F or lower",
+                    "45°F or lower",
+                    "135°F or lower"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 17,
+                "question": "A HACCP plan and/or label warning is required for",
+                "choices": [
+                    "serving any pasteurized juice",
+                    "serving any unpasteurized fruit",
+                    "serving any unpasteurized juice",
+                    "serving any TCS food"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 18,
+                "question": "The chef is attempting to cool a big pot of spaghetti sauce. He was able to cool it from 135°F to 70° in the first two hours. How much time does he have remaining to cool it to 41°F?",
+                "choices": [
+                    "1 hour",
+                    "2 hours",
+                    "4 hours",
+                    "Unlimited time as long as he cools it to 41°F before serving it"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 19,
+                "question": "All TCS food held at 41°F or lower must be thrown out after how many days?",
+                "choices": [
+                    "The cold TCS food does not need to be thrown out as long as it has been held at 41°F or lower",
+                    "3 days",
+                    "7 days after it was prepared",
+                    "7 days including the day it was prepped"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    "7" : {
+        "title": "Chapter 7 Quiz",
+        "questions": [
+            {
+                "questionid": 0,
+                "question": "Which part of the plate should food handlers avoid touching when serving customers?",
+                "choices": [
+                    "Top",
+                    "Side",
+                    "Edge",
+                    "Bottom"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 1,
+                "question": "An operation has a small salad bar with 8 different items on it. How many serving utensils are needed to serve the items on the salad bar?",
+                "choices": [
+                    "2",
+                    "4",
+                    "6",
+                    "8"
+                ],
+                "correct": 8
+            },
+            {
+                "questionid": 2,
+                "question": "At what maximum internal temperature should cold TCS food be held?",
+                "choices": [
+                    "0°F",
+                    "32°F",
+                    "41°F",
+                    "45°F"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 3,
+                "question": "What item must customers take each time they return to a self-service area for food?",
+                "choices": [
+                    "Clean plate",
+                    "Extra napkins",
+                    "Hand Sanitizer",
+                    "New serving spoon"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 4,
+                "question": "What item may be reused by returning customers at a buffet table?",
+                "choices": [
+                    "No items may be reused by returning customers at a self service area",
+                    "Drinking glass",
+                    "Plates",
+                    "Dessert cups"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 5,
+                "question": "An operation is located in a jurisdiction that allows it to hold TCS food without temperature control. How many hours can it display hot TCS food without temperature control before the food is to be sold, served or thrown out?",
+                "choices": [
+                    "2",
+                    "4",
+                    "6",
+                    "8"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 6,
+                "question": "Which food items can be displayed in a self service area without packaging, sneeze guards, or a display case to protect them from contamination?",
+                "choices": [
+                    "Bulk deli rolls",
+                    "Individually packaged packets of honey mustard",
+                    "Sushi grade fish",
+                    "Cooked shrimp on the shell"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 7,
+                "question": "What is the maximum distance sneeze guards can be located from the self service counter to protect food from contamination?",
+                "choices": [
+                    "4 inches",
+                    "6 inches",
+                    "12 inches",
+                    "14 inches"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 8,
+                "question": "A food handler is assigned to check and record the temperature of food in a hot holding area every 3 hours. The food handler checks and records the temperature of the hot holding unit thermometer every 3 hours to complete his assigned task. Is the food handler doing anything wrong?",
+                "choices": [
+                    "No, the food handler has up to 4 hours to check the temperature for hot TCS foods",
+                    "Yes, the food handler is checking and recording the temperature of the hot holding unit instead of the food",
+                    "Yes, the food handler did not wash, rinse and sanitize his thermometer",
+                    "No, the food handler has up to 6 hours to check the temperature of hot TCS foods"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 9,
+                "question": "When is bare hand contact with food allowed?",
+                "choices": [
+                    "When preparing chicken breasts for grilling",
+                    "When cutting a bagel with a knife that has been sanitized",
+                    "When preparing vegetables that will be served with a highly acidic dressing",
+                    "When the food is to be immediately placed in the refrigerator to minimize pathogen growth"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 10,
+                "question": "What food item may be re-served?",
+                "choices": [
+                    "Plate garnishes such as fruit or pickles",
+                    "Breads and rolls",
+                    "Unopened, prepackaged condiments",
+                    "Mistaken menu item returned from the serving table"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 11,
+                "question": "Spoons or scoops used to serve food, such as ice cream or mashed potatoes, can be stored under running water that is at least at what temperature?",
+                "choices": [
+                    "41°F or lower if the item is cold food",
+                    "45°F or higher",
+                    "Room temperature",
+                    "135°F or higher"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 12,
+                "question": "Linen in serving baskets should be changed",
+                "choices": [
+                    "daily",
+                    "every 4 hours",
+                    "with each new customer",
+                    "at the end of every shift"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 13,
+                "question": "What practice helps prevent cross contact in a self-service area?",
+                "choices": [
+                    "Assigning new plates for each customer returning to the self-service area",
+                    "Labeling each food item in the self service area",
+                    "Separating ready-to-eat and raw foods in the self service area",
+                    "Installing sneeze guards in the self-service area"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 14,
+                "question": "A way customers and food are protected at an off-site event where there is no running water is by",
+                "choices": [
+                    "using ice as a source of water",
+                    "providing hand soap",
+                    "using single serve utensils",
+                    "cleaning and closing all delivery containers"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 15,
+                "question": "When delivering food to an off site event",
+                "choices": [
+                    "the food handler must make certain there is sufficient fuel to run hot holding equipment",
+                    "store and maintain raw meat, poultry and ready to eat foods separately",
+                    "the interior of the delivery vehicle must be temperature controlled",
+                    "gloves must be worn to handle all food packages that are being delivered"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 16,
+                "question": "Vending machines dispensing cold or hot TCS food must be able to",
+                "choices": [
+                    "keep all cold TCS foods at 41°F or lower and all hot TCS foods at 145°F or higher",
+                    "hold the internal temperature of all cold TCS food at 45°F or lower",
+                    "hold cold TCS food at 41°F or lower and hot TCS food at 135°F or higher",
+                    "alert the operator of any temperature malfunction above 45°F"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 17,
+                "question": "Drinking cups should never be held by the",
+                "choices": [
+                    "bottom",
+                    "rim",
+                    "side",
+                    "stem"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 18,
+                "question": "At what minimum internal temperature should hot TCS food be held?",
+                "choices": [
+                    "41°F or above",
+                    "45°F or above",
+                    "135°F or above",
+                    "145°F or above"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 19,
+                "question": "Ice that is used to keep beverages cool at an off-site catering event",
+                "choices": [
+                    "can also be placed and used to keep cool the beverage when the beverage is poured into a disposable cup",
+                    "must changed every 4 hours",
+                    "must be discarded at the end of the event or any time it becomes visibly contaminated",
+                    "must be kept frozen solid during the event"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    "8" : {
+        "title": "Chapter 8 Quiz",
+        "questions": [
+            {
+                "questionid": 0,
+                "question": "The temperature of a roast is checked to see if it has met its critical limit of 145°F for 4 minutes. This is an example of what HACCP principal?",
+                "choices": [
+                    "Verification",
+                    "Monitoring",
+                    "Record keeping",
+                    "Conducting a hazard analysis"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 1,
+                "question": "The temperature of a pot of beef stew is checked during holding. The stew has not met the critical limit and is thrown out according to house policy. Throwing out the stew is an example of what HACCP principal?",
+                "choices": [
+                    "Monitoring",
+                    "Verification",
+                    "Setting critical limits",
+                    "Corrective action"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 2,
+                "question": "A deli serves ready-made cold sandwiches in a self-serve display. Which step in the flow of food would be a critical control point?",
+                "choices": [
+                    "Storage",
+                    "Cooling",
+                    "Cooking",
+                    "Reheating"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 3,
+                "question": "A chef sanitized a thermometer probe and then checked the temperature of a minestrone soup being hot held in a hot holding unit. The temperature was 120°F, which did not meet the operations's critical limit of 135°F. The chef recorded the temperature in the log and reheated the soup to 165°F for 15 seconds within 2 hours. Which was the corrective action?",
+                "choices": [
+                    "Checking the critical limit",
+                    "Sanitizing the thermometer probe",
+                    "Reheating the soup",
+                    "Recording the temperature in the log"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 4,
+                "question": "What is the purpose of a food safety management system?",
+                "choices": [
+                    "Keep the areas of the facility clean and pest free",
+                    "Identify, tag, and repair faulty equipment within the facility",
+                    "Identify, document, and use the correct methods for receiving foods",
+                    "Identify and control possible hazards throughout the flow of food"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 5,
+                "question": "Reviewing temperature logs and other records to make sure that the HACCP plan is working as intended is an example of what HACCP principal?",
+                "choices": [
+                    "Monitoring",
+                    "Verification",
+                    "Conducting a hazard analysis",
+                    "Record keeping"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 6,
+                "question": "What is the first step in developing a HACCP plan?",
+                "choices": [
+                    "Identify corrective actions",
+                    "Conduct a hazard analysis",
+                    "Establish monitoring procedures",
+                    "Determine critical control points"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 7,
+                "question": "What does an operation that wants to smoke food as a methods of preservation need to have before processing food this way?",
+                "choices": [
+                    "Food safety certificate",
+                    "Crisis management plan",
+                    "Variance from the local regulatory authority",
+                    "Master cleaning schedule"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 8,
+                "question": "What agency develops the Model Food Code?",
+                "choices": [
+                    "OSHA",
+                    "FDA",
+                    "CDC",
+                    "USDA"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 9,
+                "question": "What federal agency is responsible for inspecting poultry, eggs and meats?",
+                "choices": [
+                    "USDA",
+                    "SBLA",
+                    "OSHA",
+                    "CDC"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 10,
+                "question": "A sewer back-up, lack of electrical power and lack of refrigeration affect the operation in the following manner",
+                "choices": [
+                    "situations for immediately calling the electric utility company",
+                    "situation for immediately calling the pest control company",
+                    "situation where all foods must be placed in containers of dry ice",
+                    "imminent health dangers and grounds for immediate closure"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 11,
+                "question": "The FDA five (5) recommended public health interventions include demonstration of knowledge, staff health controls, time and temperature parameters for controlling pathogens, consumer advisories and",
+                "choices": [
+                    "developing a HACCP plan for all food service establishments",
+                    "establishing a crisis plan",
+                    "controlling hands as a vehicle of contamination",
+                    "yearly FDA inspections"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 12,
+                "question": "A variance is",
+                "choices": [
+                    "a certificate from the local regulatory authority allowing an establishment to re-open after an imminent health danger has been corrected",
+                    "a recipe for smoking wild game meats or fish",
+                    "a document that allows an established health requirement to be waived or changed",
+                    "issued only with the permission of the CDC"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 13,
+                "question": "An establishment that is using reduced oxygen packaging (ROP) as a method to process foods must have what in place?",
+                "choices": [
+                    "FDA approval",
+                    "both FDA and USDA approval",
+                    "HACCP plan",
+                    "CDC approval"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 14,
+                "question": "In developing a HACCP plan, the HACCP team at a fresh fruit company decided that bacteria pose a risk to its fresh cut melons. This is an example of what HACCP principal?",
+                "choices": [
+                    "Establishing critical limits",
+                    "Verify the system",
+                    "Analyzing hazards",
+                    "Determining critical control points"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 15,
+                "question": "A practice that establishes time and temperature parameters for controlling pathogens would be to",
+                "choices": [
+                    "set policies and procedures to avoid time-temperature abuse of food in the establishment",
+                    "establishing a hand washing monitoring program",
+                    "establishing a food defense system",
+                    "providing extra utensils to avoid cross contact"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 16,
+                "question": "A crisis management program should first be put in place",
+                "choices": [
+                    "during a crisis in an establishment",
+                    "before a crisis occurs in an establishment",
+                    "after all of the facts are learned about a crisis in an establishment",
+                    "at all establishments with three (3) or more employees"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 17,
+                "question": "A HACCP plan for one French restaurant",
+                "choices": [
+                    "works as well for any French restaurant",
+                    "should include procedures for cooking raw egg sauce",
+                    "should be exclusive for each establishment",
+                    "must be kept in records storage for all of the other restaurants"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 18,
+                "question": "If a customer calls to report a foodborne illness",
+                "choices": [
+                    "take down general contact information, ask about the food that was eaten, when the person first became sick, the symptoms and do not admit immediate responsibility or accept liability.",
+                    "immediately call the CDC and provide all relevant information about the person and the food",
+                    "immediately throw out all suspected food",
+                    "offer to pay for the bill from the doctor"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 19,
+                "question": "Once a regulatory authority has lifted any boiled water advisories, part of the plan to take corrective actions at your facility should include",
+                "choices": [
+                    "clean and sanitize all equipment with water line connections such as spray misters, coffee or tea urns, ice machines, etc... Manufacturers directions should be followed.",
+                    "your establishment should resume normal operations",
+                    "following a plan to minimize water usage",
+                    "re-adjust all ventilation systems"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    "9" : {
+        "title": "Chapter 9 Quiz",
+        "questions": [
+            {
+                "questionid": 0,
+                "question": "What are the most important food safety features to look for when selecting flooring, wall and ceiling materials?",
+                "choices": [
+                    "Absorbent and durable",
+                    "Hard and durable",
+                    "Made of hard material, smooth, easy to clean and durable",
+                    "Porous and durable"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 1,
+                "question": "What organization creates national standards for food service equipment?",
+                "choices": [
+                    "FDA",
+                    "CDC",
+                    "NSF",
+                    "USDA"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 2,
+                "question": "When installing tabletop equipment on legs, the space between the base of the equipment and the tabletop must be at least",
+                "choices": [
+                    "6 inches",
+                    "2 inches",
+                    "4 inches",
+                    "8 inches"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 3,
+                "question": "Besides information on chemical concentration, what other machine setting information should be posted on dish washing machines?",
+                "choices": [
+                    "Water ph",
+                    "Water salinity",
+                    "Water temperature",
+                    "Water clarity"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 4,
+                "question": "Signage posted at a hand washing station must include a reminder to staff to",
+                "choices": [
+                    "wash hands before returning to work",
+                    "use hot running water when washing hands",
+                    "scrub hands and arms for 10-15 seconds",
+                    "avoid touching faucet and door handles after washing"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 5,
+                "question": "What is the only completely reliable methods for preventing backflow?",
+                "choices": [
+                    "air gap",
+                    "ball valve",
+                    "cross-connection",
+                    "grease trap"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 6,
+                "question": "A food handler drops the end of a hose into a mop bucket and turns the water to fill it. What has the food handler done wrong?",
+                "choices": [
+                    "Created a cross connection",
+                    "Created an air gap separation",
+                    "Prevented backflow",
+                    "Created environmental siphonage"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 7,
+                "question": "What area of the operation is usually required to be the brightest?",
+                "choices": [
+                    "Restrooms",
+                    "Dry Storage",
+                    "Preparation",
+                    "Service"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 9,
+                "question": "An operation has a build-up of grease and condensation on the walls and ceiling. What is the most likely problem?",
+                "choices": [
+                    "The cleaning chemicals are not being used correctly",
+                    "The staff are not cleaning the walls and ceiling correctly",
+                    "The grill is not being operated at a high enough temperature",
+                    "The ventilation system is not working correctly"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 10,
+                "question": "An operation received a violation notice for the outside area of the facility. The manager reviewed the area and saw that the dumpster was missing a lid. The other lids were closed, and the drain plug was in place to prevent the dumpster from draining onto the surrounding area. What was the problem?",
+                "choices": [
+                    "The dumpster lids should have been open to allow air flow and minimize odors",
+                    "The drain plugs should have been removed to allow the dumpster to drain correctly",
+                    "The dumpster should have been in a fenced in area",
+                    "The dumpster was missing a lid thus did not close properly"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 11,
+                "question": "What is the best way to eliminate pests that have entered the operation?",
+                "choices": [
+                    "Apply over the counter pesticides around the operation",
+                    "Lower the heat in the operation during non-business hours",
+                    "Raise the heat in the operation during non-business hours",
+                    "Work with a licensed pest control operator"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 12,
+                "question": "A broken water main has caused the water in the operation to appear brown. What should the manager do?",
+                "choices": [
+                    "Boil the water for 15 minutes before use",
+                    "Contact the local regulatory authority before use",
+                    "Use the water for everything except cooking",
+                    "Use the water for everything except hand washing"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 13,
+                "question": "Loss of electrical power, sewer back-ups and pest infestations",
+                "choices": [
+                    "must be addressed by all food handlers",
+                    "pose a great risk of cross contact to the establishment",
+                    "are grounds for immediate closure of the establishment",
+                    "create chemical contamination to an establishment"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 14,
+                "question": "Floor mounted equipment that is not sealed to a masonry base must be at least how many inches off the floor?",
+                "choices": [
+                    "4 inches",
+                    "6 inches",
+                    "8 inches",
+                    "10 inches"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 15,
+                "question": "The first compartment is a three compartment sink is used for",
+                "choices": [
+                    "wiping",
+                    "rinsing",
+                    "sanitizing",
+                    "washing"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 16,
+                "question": "Handwashing sinks must be supplied with warm running water, soap, disposable towels or air dryer and ",
+                "choices": [
+                    "proper signage",
+                    "brush for washing underneath nails",
+                    "hand sanitizer",
+                    "hand moisturizer"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 17,
+                "question": "Coving should be curved with a sealed edge placed between the floor and wall to eliminate",
+                "choices": [
+                    "slips and falls",
+                    "pest infestation",
+                    "sharp corners or gaps that would be impossible to clean",
+                    "floor wax build-up"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 18,
+                "question": "Ceilings, walls and doors should be",
+                "choices": [
+                    "coated with a washable finish",
+                    "free of holes, stains, easy to clean and durable",
+                    "painted a light color",
+                    "at least 12 feet from any food storage area"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 19,
+                "question": "Light shields prevent what type of contamination?",
+                "choices": [
+                    "cross",
+                    "physical",
+                    "chemical",
+                    "biological"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    "10" : {
+        "title": "Chapter 10 Quiz",
+        "questions": [
+            {
+                "questionid": 0,
+                "question": "Which thermometer should be used to monitor the temperature of the sanitizing rinse in a dishwashing machine?",
+                "choices": [
+                    "Thermocouple",
+                    "Bimetallic",
+                    "Maximum registering",
+                    "Infrared"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 1,
+                "question": "What is sanitizing?",
+                "choices": [
+                    "Reducing dirt from the surface",
+                    "Reducing the pH of a surface",
+                    "Reducing the hardness of water",
+                    "Reducing pathogens to safe levels"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 2,
+                "question": "If food contact surfaces are in constant use, how often must they be cleaned and sanitized?",
+                "choices": [
+                    "Every 4 hours",
+                    "Every 1 hour",
+                    "Every 2 hours",
+                    "Every 6 hours"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 3,
+                "question": "What must food handlers do to make sure sanitizing solution for use on food contact surfaces has been made correctly?",
+                "choices": [
+                    "Use water at 171°F or higher when making the solution.",
+                    "Mix the solution with equal parts water.",
+                    "Test the solution on a food contact surface.",
+                    "Test the solution with a sanitizer kit."
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 4,
+                "question": "A food handler was assigned to clean a slicer that was too difficult to move into a sink. The slicer was unplugged. Then the removable parts were taken off the slicer and cleaned and sanitized in a three compartment sink. The service sink was not used because the food slicer used comes in direct contact with food. Food bits on the slicer were removed. After the machine was wiped down with detergent, it was sanitized and allowed to air dry. Then the food handler put the machine back together. What mistake did the food handler make?",
+                "choices": [
+                    "He did not test the sanitizing solution before applying sanitizer",
+                    "He failed to dry the machine with a clean cloth after sanitizing it",
+                    "He failed to rinse the machine after wiping it down with detergent and water",
+                    "He failed to wash the machine with detergent before taking it apart"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 5,
+                "question": "What should be done when throwing away chemicals?",
+                "choices": [
+                    "Place the empty container in the recycling bin",
+                    "Seal the container in a bag and place it in the trash",
+                    "Follow label disposal instructions and regulatory requirements",
+                    "Put leftover chemicals into the drain, run cold water down the drain for 30 seconds and throw the container away"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 6,
+                "question": "Sanitizing solution should be stored",
+                "choices": [
+                    "near the food prep area",
+                    "on a shelf above the condiments",
+                    "on a bottom shelf away from food items",
+                    "in the dry goods storage room"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 7,
+                "question": "Too strong sanitizing solution left on a plate is an example of what type of contamination?",
+                "choices": [
+                    "cross contamination",
+                    "chemical",
+                    "physical",
+                    "biological"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 8,
+                "question": "How should flatware and utensils that have been cleaned and sanitized be stored?",
+                "choices": [
+                    "With handles facing up",
+                    "Below cleaning supplies",
+                    "In drawers that have been washed, rinsed and sanitized",
+                    "Four inches from the floor"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 9,
+                "question": "What is the correct way to clean and sanitized a prep table?",
+                "choices": [
+                    "Remove food from the surface, air dry, rinse and sanitize",
+                    "Remove food from the surface, wash, sanitize and air dry",
+                    "Remove food from the surface, sanitize, wipe with a clean towel",
+                    "Remove food from the surface, wash, rinse, sanitize and air dry"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 10,
+                "question": "All chemicals used in a food service operation should",
+                "choices": [
+                    "be bought from the nearest supplier",
+                    "be clearly labeled with its common name and have a SDS",
+                    "be cost effective for the operation and food grade",
+                    "bought in bulk with an NSF seal"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 11,
+                "question": "A Master Cleaning Schedule should",
+                "choices": [
+                    "be updated with each new piece of equipment and procedure",
+                    "inform everyone of the location of the SDS",
+                    "be revised every 12 months",
+                    "detail the operating instructions of the dishwasher"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 12,
+                "question": "Dirty tableware and utensils must be washed, rinsed and sanitized in",
+                "choices": [
+                    "a service sink",
+                    "a utility sink",
+                    "a three compartment sink",
+                    "a hand washing sink"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 13,
+                "question": "The final sanitizing rinse of a high temperature dishwasher must reach",
+                "choices": [
+                    "100°F",
+                    "110°F",
+                    "171°F",
+                    "180°F"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 14,
+                "question": "The first step in cleaning, rinsing and sanitizing any equipment that has electrical components is to",
+                "choices": [
+                    "take removable parts off the equipment",
+                    "unplug it",
+                    "scrape or remove food from the surface of the equipment",
+                    "let it air dry"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 15,
+                "question": "When sanitizing stationary equipment, the sanitizer",
+                "choices": [
+                    "should be poured on to all areas of the equipment",
+                    "should be sprayed and controlled as it is applied to the equipment",
+                    "pan needs to be deep enough to submerse the equipment",
+                    "should be changed every 4 hours"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 16,
+                "question": "Minimum contact time for iodine and quaternary sanitizers is at least",
+                "choices": [
+                    "15 seconds",
+                    "20 seconds",
+                    "25 seconds",
+                    "30 seconds"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 17,
+                "question": "What chemical would best be used to remove calcium deposits and other mineral deposits from the jets on a dishwasher?",
+                "choices": [
+                    "Degreaser",
+                    "Detergent",
+                    "Delimer",
+                    "Sanitizer"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 18,
+                "question": "A sanitizing solution is affected by the",
+                "choices": [
+                    "the type of sanitizer",
+                    "water hardness ",
+                    "item to be sanitized",
+                    "method of dish washing in a three compartment sink"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 19,
+                "question": "The water temperature of the first compartment in a three compartment sink must be at least",
+                "choices": [
+                    "110°F",
+                    "171°F",
+                    "180°F",
+                    "135°F"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    "11": {
+        "title": "Practice Exam #1",
+        "questions": [
+            {
+                "questionid": 0,
+                "question": "New employees should receive basic food safety information, including personal hygiene requirements, no later than ____.",
+                "choices": [
+                    "the first day of employment",
+                    "the third day of employment",
+                    "a week after employment",
+                    "the first employee evaluation"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 1,
+                "question": "For an illness to be considered a “foodborne outbreak,” how many people must be affected after eating the same food and confirmed by a lab?",
+                "choices": [
+                    "1 person",
+                    "more than 5",
+                    "10",
+                    "2"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 2,
+                "question": "While everyone is at risk for foodborne illnesses given the right circumstances, a few populations are more susceptible (high risk population). Who of these is least likely to contract a foodborne illness?",
+                "choices": [
+                    "a healthy 1 year old",
+                    "a 22 year old with HIV",
+                    "a 30 year old heart patient",
+                    "a healthy 45 year old"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 3,
+                "question": "You receive a shipment of cold foods and notice the storage temperature is 45° F. This would be a problem for all of these foods except ____.",
+                "choices": [
+                    "sliced ham",
+                    "live shellfish",
+                    "cottage cheese",
+                    "sliced watermelon"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 4,
+                "question": "Shortly after eating, a customer feels unwell. He has broken out in hives, complains his hands are tingling, and that he felt cold but is starting to feel hot. Which food type most likely caused his illness?",
+                "choices": [
+                    "nuts",
+                    "chicken",
+                    "fish",
+                    "cheese"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 5,
+                "question": "Chicken must be cooked to an internal temperature of ____ to be considered safe for consumption.",
+                "choices": [
+                    "90°F",
+                    "180°F",
+                    "210°F",
+                    "165°F"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 6,
+                "question": "Which of the following is not a required item at a hand washing sink?",
+                "choices": [
+                    "hand antiseptic",
+                    "hot and cold running water",
+                    "trash receptacle",
+                    "proper signage"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 7,
+                "question": "Which of these would make you reject an order of milk received at a day care?",
+                "choices": [
+                    "It is labeled Grade A",
+                    "It was received at a temperature of 41° F",
+                    "It is not labeled homogenized",
+                    "It is not labeled pasteurized"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 8,
+                "question": "Which of these is incorrect regarding thermometers and food safety?",
+                "choices": [
+                    "To get the most accurate reading, the probe of the thermometer should be inserted into the thickest part of the food",
+                    "Immersion probes on a thermocouple thermometer are used to measure the temperature of liquids",
+                    "Infrared thermometers are the most accurate choice for both surface and internal temperatures",
+                    "You can re-calibrate a thermometer using either ice point or boiling water methods"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 9,
+                "question": "All foods prepared in-house and kept more than 24 hours must be labeled with ",
+                "choices": [
+                    "the day the food was prepared",
+                    "the day of expiration or discard date",
+                    "the chef's name",
+                    "all ingredients"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 10,
+                "question": "Establishments that rely on well water must have the well water tested",
+                "choices": [
+                    "weekly",
+                    "monthly",
+                    "quarterly",
+                    "yearly"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 11,
+                "question": "The organization that mandates each establishment to have SDS is",
+                "choices": [
+                    "NSA",
+                    "EPA",
+                    "FDA",
+                    "OSHA"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 12,
+                "question": "When inspecting incoming shipments of food, the Fahrenheit temperatures should be ____.",
+                "choices": [
+                    "frozen: 0° or less, or hard to the touch with no ice crystals; cold 37° or less; hot: 135° or more",
+                    "frozen: 0° or less, or hard to the touch with no ice crystals; cold 41° or less; hot: 165° or more",
+                    "frozen: 0° or less, or hard to the touch with no ice crystals; cold 41° or less; hot: 135° or more",
+                    "frozen: 0° or less, or hard to the touch with no ice crystals; cold 41° or less; hot: 145° or more"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 13,
+                "question": "FIFO stands for ____.",
+                "choices": [
+                    "First In First Out",
+                    "Food Inspection For Optimum-use",
+                    "Food In Fast Operations",
+                    "Fall Injuries Fail Others"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 14,
+                "question": "You have been out on vacation for a few days from your job as a food service manager. Upon returning, you find prepared food in the walk-in refrigerator with no expiration date. What should you do?",
+                "choices": [
+                    "Assume that the food is good if it is stored correctly",
+                    "Examine the package for rips or tears",
+                    "Ask staff who work with that food about the discard date",
+                    "Discard it"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 15,
+                "question": "Today is the birthday of one of the staff members.  You made a cake at home and plan to serve it to other staff members during break.  Is this an acceptable practice?",
+                "choices": [
+                    "Yes, as long as the cake is not served or sold to customers",
+                    "No, food cooked at home is not allowed to be brought into restaurants",
+                    "Yes, the cake is allowed to be served to everyone as long as it is free",
+                    "Yes, as long as long as the cake is served within 6 hours"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 16,
+                "question": "Who is responsible for disposing of pesticides?",
+                "choices": [
+                    "the Food Safety Manager",
+                    "a staff member with no pesticide knowledge",
+                    "The pest control operator (PCO)",
+                    "a member of the hazmat team"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 17,
+                "question": "The FDA is responsible for inspecting all foods except for which of the following?",
+                "choices": [
+                    "meat, poultry, and eggs",
+                    "bottled water",
+                    "canned goods",
+                    "infant formula"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 18,
+                "question": "The power goes out in your restaurant. As a manager, what is the first action you should take?",
+                "choices": [
+                    "If there is a power outage at your restaurant, you should first make note of the time so you know when the event occurred and can plan accordingly",
+                    "If you have a generator, getting that operational would be an appropriate second step",
+                    "Checking and recording the temperature of food is appropriate, but does not need to be done immediately after the outage occurs. TCS foods do not need to be thrown away until they have been in the temperature danger zone for more than 4 hours",
+                    "Call the local regulatory authority"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 19,
+                "question": "Why is Food Safety Important?",
+                "choices": [
+                    "To prevent and stop foodborne illness and contaminants from getting into food and creating an outbreak",
+                    "Prevent loss of sales or business",
+                    "To maintain a good reputation for the business",
+                    "All of the above"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 20,
+                "question": "What are the 5 most common risk factors to keeping food safe?",
+                "choices": [
+                    "Purchasing ingredients from safe sources, holding foods at the wrong temperatures, poor hygiene practices, using contaminated tools & equipment, improper cooking of foods",
+                    "Purchasing foods and ingredients from unapproved suppliers, holding foods at the wrong temperatures, poor personal hygiene practices, using contaminated tools & equipment, improper cooking of foods",
+                    "Purchasing ingredients from unsafe sources, holding foods at the wrong temperatures, poor hygiene practices, using contaminated tools & equipment, properly cooking foods",
+                    "Purchasing ingredients from unsafe sources, holding foods at the right temperatures, poor hygiene practices, using contaminated tools & equipment, improper cooking of foods"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 21,
+                "question": "Which of the following is the proper technique to wash hands:",
+                "choices": [
+                    "wet hands and arms, apply soap, scrub hands and arms for 10-15 seconds, dry hands and arms",
+                    "wet hands and arms, apply soap, scrub hands and arms for 30 seconds, rinse hands and arms, dry hands and arms",
+                    "apply soap, wet hands and arms, scrub hands and arms for 10-15 seconds, rinse hands and arms, dry hands and arms",
+                    "wet hands and arms, apply soap, scrub hands and arms for 20 seconds, dry hands and arms"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 22,
+                "question": "Cross-Contamination refers to",
+                "choices": [
+                    "making sure that foods are stored correctly",
+                    "the spread of bacteria or pathogens from one tool, food item or surface to another",
+                    "time it takes to put away a delivery and temperature of the received items",
+                    "Plating different foods on the same plate"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 23,
+                "question": "The temperature zone between 41°F to 135°F is known as:",
+                "choices": [
+                    "the Temperature Safety Zone",
+                    "the Temperature Danger Zone",
+                    "the Temperature In-Zone",
+                    "the Temperature Food Zone"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 24,
+                "question": "Food that has been held in the Temperature Danger Zone has been subjected to:",
+                "choices": [
+                    "Time-Temperature Zone",
+                    "Time-Temperature Abuse",
+                    "Zone-Temperature Abuse",
+                    "Danger-Temperature Abuse"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 25,
+                "question": "An example of proper sanitization is:",
+                "choices": [
+                    "Keeping sanitizing towels on the table next to the sanitizing solution",
+                    "Using hot soapy water instead of sanitizing solution",
+                    "Not washing dishes, to save water",
+                    "Washing, rinsing and sanitizing all food contact surfaces between use and as needed"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 26,
+                "question": "What is the best way to ensure proper personal hygiene in employees?",
+                "choices": [
+                    "Model correct personal hygiene, set a staff dress code, put the dress code in writing, and enforce it",
+                    "Only speak to employees publicly about being aware of their appearance and hygiene",
+                    "Only coach employees privately that have a hygiene issue",
+                    "Provide uniforms for the entire staff"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 27,
+                "question": "How many days can properly prepared and stored TCS food be kept before it is to be discarded?",
+                "choices": [
+                    "3 days",
+                    "5 days",
+                    "7 days",
+                    "10 days"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 28,
+                "question": "How quickly must food be cooled from 135˚F to 70˚F?",
+                "choices": [
+                    "4 hours",
+                    "6 hours",
+                    "2 hours",
+                    "8 hours"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 29,
+                "question": "A PCO has completed a pesticides treatment on the facility. What documentation do you need from them regarding the chemicals used?",
+                "choices": [
+                    "A hazardous materials tag",
+                    "HAACP plan",
+                    "An IPO",
+                    "An SDS"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 30,
+                "question": "What practice is useful for preventing the Norovirus from causing a foodborne illness?",
+                "choices": [
+                    "Correct handwashing",
+                    "Encouraging staff to get flu shots",
+                    "Correct time and temperature of foods",
+                    "Cooling foods correctly"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 31,
+                "question": "What are the three classifications of hazards that make food unsafe?",
+                "choices": [
+                    "hand washing, cross contact, time temperature abuse",
+                    "biological, chemical, and physical",
+                    "sneezing, chewing gum, touching your hair",
+                    "using an unapproved supplier, food defense, smoking"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 32,
+                "question": "A food handler uses different cutting boards to chop raw beef and slice melons. This is an example of",
+                "choices": [
+                    "practicing good personal hygiene",
+                    "cross contact",
+                    "good cleaning and sanitizing",
+                    "preventing cross contamination"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 33,
+                "question": "Where should you clean a garbage can?",
+                "choices": [
+                    "in a service or utility sink",
+                    "in the three compartment sink",
+                    "in the hand washing sink",
+                    "in the bathroom sink only"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 34,
+                "question": "Where should a cleaning/sanitizing towel be stored when not being used?",
+                "choices": [
+                    "in the utility room",
+                    "with the mop and bucket",
+                    "In a cleaning/sanitizer solution (bucket)",
+                    "by the cash register"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 35,
+                "question": "Which of the following foods needs time and temperature control?",
+                "choices": [
+                    "strawberry",
+                    "cut melon",
+                    "container of salt",
+                    "peanuts"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 36,
+                "question": "Hands should be dried with",
+                "choices": [
+                    "an apron",
+                    "a cloth towel",
+                    "a paper towel or air dryer",
+                    "on your pants"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 37,
+                "question": "Hot TCS food received at which temperature can be accepted?",
+                "choices": [
+                    "134°F",
+                    "139°F",
+                    "41°F",
+                    "0°F"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 38,
+                "question": "Which item should a food handler remove and store correctly before using the restroom?",
+                "choices": [
+                    "plain metal band",
+                    "apron",
+                    "face mask",
+                    "medical alert bracelet"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 39,
+                "question": "During which phase in an operation does food safety control begin?",
+                "choices": [
+                    "Purchasing",
+                    "Receiving",
+                    "Cooking",
+                    "Holding"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 40,
+                "question": "Key drop deliveries are allowed when",
+                "choices": [
+                    "the owner is not in",
+                    "there is an emergency delivery",
+                    "food is non-perishable",
+                    "food is placed in the correct storage location"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 41,
+                "question": "Which food item should be rejected at receiving?",
+                "choices": [
+                    "shellfish without a shell stock identification tag",
+                    "frozen yogurt",
+                    "can with torn label",
+                    "milk that expires in 3 days"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 42,
+                "question": "TCS food is often",
+                "choices": [
+                    "dry",
+                    "has a fuzzy texture",
+                    "comes in a shell",
+                    "moist and contains protein"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 43,
+                "question": "Equipment used to process TCS foods in a refrigerated room held at 41°F or below can be cleaned every",
+                "choices": [
+                    "24 hrs",
+                    "32 hrs",
+                    "48 hrs",
+                    "72 hrs"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 44,
+                "question": "A thermometer for measuring food temperatures should be accurate to +/- 2°F, easy to read, and",
+                "choices": [
+                    "calibrated",
+                    "made of glass",
+                    "attached to the packaging",
+                    "kept in sanitizing solution"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 45,
+                "question": "A food handler applies hand antiseptic and then scrubs hands and forearms for 15 seconds under warm running water. The food handler then thoroughly rinses and dries hands with hot air drier. The mistake in this process was that the food handler",
+                "choices": [
+                    "the food handler did everything correctly",
+                    "did not use a nail brush",
+                    "used hand antiseptic instead of an approved soap",
+                    "did not use a paper towel"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 46,
+                "question": "A food handler who has been sick with vomiting and diarrhea has been symptom free for 24 hours. The manager may continue the exclusion of the food handler if the",
+                "choices": [
+                    "food handler has a poor attendance record",
+                    "food handler has been restricted at another job",
+                    "operation serves a highly susceptible population",
+                    "food handler requests time off"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 47,
+                "question": "A nursing home has placed an order for 25 box lunches for a picnic. Which item should be left out of the box lunch?",
+                "choices": [
+                    "chocolate cake",
+                    "hamburger cooked in the microwave",
+                    "raw alfalfa sprouts",
+                    "pickles"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 48,
+                "question": "Viruses such as norovirus and hepatitis A are directly related to contamination from",
+                "choices": [
+                    "feces",
+                    "air",
+                    "surface",
+                    "flies"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 49,
+                "question": "A server places dirty dishes in a bus pan and then plates a piece of pie. Before plating the pie, the server should",
+                "choices": [
+                    "make sure it is the correct serving dish",
+                    "prepare the serving utensils",
+                    "keep a record of the order",
+                    "wash hands with warm water and soap"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 50,
+                "question": "What is one approved way to preset utensils?",
+                "choices": [
+                    "wrap them in a napkin",
+                    "hand them out to the customer before seating",
+                    "on a flat surface",
+                    "with the handles facing the customer"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 51,
+                "question": "Which risk may result from having a cross connection?",
+                "choices": [
+                    "the grease trap becomes filled quickly",
+                    "the floor drains will overflow ",
+                    "there will not be enough pressure in the water supply",
+                    "the drinkable water supply may become contaminated"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 52,
+                "question": "Bottled beverages are on ice, cooling in a sink. The ice in the sink can be used for what other purpose?",
+                "choices": [
+                    "Nothing. The ice must only be used to cool the bottles beverages",
+                    "serve in the customers drinks",
+                    "cooling other foods",
+                    "replenish the ice machine"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 53,
+                "question": "The individual responsible for notifying the regulatory authority when a food handler is diagnosed with a foodborne illness is the",
+                "choices": [
+                    "the Food Safety Manager",
+                    "the owner",
+                    "the cashier",
+                    "the hostess"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 54,
+                "question": "Reviewing video surveillance is part of which ALERT Food Defense Awareness step?",
+                "choices": [
+                    "Assure",
+                    "Threats",
+                    "Look",
+                    "Notify"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 55,
+                "question": "Which type of sanitizer is bleach?",
+                "choices": [
+                    "iodine",
+                    "chlorine",
+                    "quaternary",
+                    "salt"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 56,
+                "question": "Ice that is used for beverages should be made from what kind of water?",
+                "choices": [
+                    "sea",
+                    "drinkable/potable",
+                    "well",
+                    "city"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 57,
+                "question": "Once a ready-to-eat TCS food has been opened, a cook has how many hours before the food must be used and/or properly labeled?",
+                "choices": [
+                    "4",
+                    "6",
+                    "12",
+                    "24"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 58,
+                "question": "What is the best way to handle recalled food items?",
+                "choices": [
+                    "immediately send back to the distributor for credit",
+                    "Remove them from inventory and relocate them to a separate area - mark the items 'Recall'/'Do Not Use'",
+                    "Notify all customers of the recall",
+                    "Immediately throw out the recalled items"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 59,
+                "question": "A common allergen found in yogurt is",
+                "choices": [
+                    "milk",
+                    "corn syrup",
+                    "blueberry",
+                    "sugar"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 60,
+                "question": "Cooked rice must be hot held at a minimum temperature of",
+                "choices": [
+                    "135°F",
+                    "110°F",
+                    "41°F",
+                    "32°F"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 61,
+                "question": "Sausage made of pork and poultry must be cooked to a minimum internal temperature of",
+                "choices": [
+                    "135°F",
+                    "145°F",
+                    "155°F",
+                    "165°F"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 62,
+                "question": "An acceptable method of cooling food is to",
+                "choices": [
+                    "Stir the food after placing it in an ice water bath",
+                    "Leave it on the counter until it cools",
+                    "Fan it with cardboard",
+                    "Put it in a shallow pan and tightly cover the pan"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 63,
+                "question": "Baked lasagna should be reheated for holding to at least which temperature for 15 seconds?",
+                "choices": [
+                    "165°F",
+                    "135°F",
+                    "41°F",
+                    "32°F"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 64,
+                "question": "Curved, sealed edge placed between the floor and the wall to make cleaning easier is called ",
+                "choices": [
+                    "flooring",
+                    "durable",
+                    "coving",
+                    "matting"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 65,
+                "question": "What two devices are used to control back flow?",
+                "choices": [
+                    "Siphonage devices",
+                    "Filters",
+                    "switches",
+                    "Vacuum breakers and air gaps"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 66,
+                "question": "The process of removing food and other types of soil from a surface is called ",
+                "choices": [
+                    "scraping",
+                    "de-liming",
+                    "cleaning",
+                    "sanitizing"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 67,
+                "question": "Food safety regulations are usually enforced at the ___ levels",
+                "choices": [
+                    "front-line",
+                    "state and local",
+                    "city",
+                    "rural"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 68,
+                "question": "Droppings, signs of gnawing, tracks, nesting materials and holes can be signs of",
+                "choices": [
+                    "pest infestation",
+                    "poor cleaning",
+                    "time and temperature abuse",
+                    "a food allergy"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 69,
+                "question": "Biological hazards are ",
+                "choices": [
+                    "bones in fillets and fruit pits",
+                    "cleaners, sanitizers, and polishes",
+                    "bacteria, viruses, parasites, and fungi",
+                    "bacteria, bones and cleaners"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 70,
+                "question": "Food handlers must was their hands when",
+                "choices": [
+                    "After touching your hair, face, or body.  Clearing tables or busing dirty dishes",
+                    "Before going on break",
+                    "Before going home",
+                    "After leaving the food prep area"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 71,
+                "question": "Gloves should be changed",
+                "choices": [
+                    "Every 1 hour",
+                    "Before beginning a new task or after handling raw meats and before handling ready-to-eat food",
+                    "Once per shift",
+                    "While receiving foods"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 72,
+                "question": "Cross contact refers to ",
+                "choices": [
+                    "defending food from intentional harm",
+                    "placing food on dirty surfaces",
+                    "food allergies",
+                    "personal hygiene"
+                ],
+                "correct": 2
+            }, 
+            {
+                "questionid": 73,
+                "question": "In order to assure the effectiveness of a sanitizing solution, a ____ should be used. ",
+                "choices": [
+                    "sanitizer test kit",
+                    "temperature probe",
+                    "clean glass",
+                    "chlorine tablet"
+                ],
+                "correct": 0
+            }, 
+            {
+                "questionid": 74,
+                "question": "What is an important measure for preventing food borne illness?",
+                "choices": [
+                    "Serving locally grown food",
+                    "Using new equipment",
+                    "Measuring pathogens",
+                    "Controlling time and temperature"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 75,
+                "question": "What is the most important way to prevent a food borne illness from viruses?",
+                "choices": [
+                    "Control time and temperature",
+                    "Practice good cleaning and sanitizing",
+                    "Prevent cross-contamination.",
+                    "Practice good personal hygiene"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 76,
+                "question": "To prevent the deliberate contamination of food, a manager should know who is in the facility, monitor the security of products, keep information related to food security on file, and know",
+                "choices": [
+                    "where to find SDS in the operation",
+                    "when to register with the EPA",
+                    "who to contact about suspicious activity",
+                    "how to fill out an incident report"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 77,
+                "question": "After which activity must food handlers wash their hands?",
+                "choices": [
+                    "Putting on gloves",
+                    "Serving customers",
+                    "Applying hand antiseptic",
+                    "Clearing tables"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 78,
+                "question": "A cook wore single-use gloves while forming raw ground beef into patties. The cook continued to wear them while slicing hamburger buns. What mistake was made?",
+                "choices": [
+                    "The cook did not wear reusable gloves while handling the raw ground beef and hamburger buns.",
+                    "The cook did not wash hands before putting on the same gloves to slice the hamburger buns.",
+                    "The cook did not wash hands and put on new gloves before slicing the hamburger buns.",
+                    "The cook did not clean and sanitize the gloves before handling the hamburger buns."
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 79,
+                "question": "Which probe should be used to check the temperature of a large stockpot of chili?",
+                "choices": [
+                    "air probe",
+                    "immersion probe",
+                    "surface probe",
+                    "penetration probe"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 80,
+                "question": "What is the most important factor in choosing a food supplier?",
+                "choices": [
+                    "It has a HACCP program or other food safety system",
+                    "It has documented manufacturing and packing practices.",
+                    "Its warehouse is close to the operation, reducing shipping time.",
+                    "It has been inspected and complies with local, state, and federal laws."
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 81,
+                "question": "What is required when receiving fish that will be served raw or partially cooked?",
+                "choices": [
+                    "It must be alive when received.",
+                    "It must be thawed in the microwave.",
+                    "It must be used within 24 hours of receiving.",
+                    "It must be correctly frozen before you receive it."
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 83,
+                "question": "What is the problem with storing raw ground beef above prepped salads?",
+                "choices": [
+                    "Cross-contamination",
+                    "Poor personal hygiene",
+                    "Time-temperature abuse",
+                    "Cross-contact with allergens"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 84,
+                "question": "In top-to-bottom order, how should a fresh pork roast, fresh salmon, a container of lettuce, and a pan of fresh chicken breast be stored in a cooler?",
+                "choices": [
+                    "Fresh salmon, lettuce, fresh chicken breasts, fresh pork roast",
+                    "Lettuce, fresh salmon, fresh pork roast, fresh chicken breasts",
+                    "Lettuce, fresh chicken breasts, fresh pork roast, fresh salmon",
+                    "Fresh salmon, fresh pork roast, fresh chicken breasts, lettuce"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 85,
+                "question": "How many inches (centimetres) from the floor should food be stored?",
+                "choices": [
+                    "At least 1 inch (3 cm)",
+                    "At least 2 inches (5 cm)",
+                    "At least 4 inches (10 cm)",
+                    "At least 6 inches (15 cm)"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 86,
+                "question": "A food handler thaws several frozen turkeys on a prep table. What is the danger that this poses to the turkeys?",
+                "choices": [
+                    "Poor cleaning and sanitizing",
+                    "Time-temperature abuse",
+                    "Cross-contamination",
+                    "Poor personal hygiene"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 87,
+                "question": "Which food should not be offered on a children's menu: a rare hamburger, fried chicken tenders, grilled cheese sandwich, or spaghetti with meat sauce?",
+                "choices": [
+                    "Rare hamburger",
+                    "Fried chicken tenders",
+                    "Grilled cheese sandwich",
+                    "Spaghetti with meat sauce"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 88,
+                "question": "What is the only completely reliable method for preventing backflow?",
+                "choices": [
+                    "Air gap",
+                    "Ball valve",
+                    "Cross-connection",
+                    "Vacuum breaker"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 89,
+                "question": "What is sanitizing?",
+                "choices": [
+                    "Reducing dirt from a surface",
+                    "Reducing the pH of a surface",
+                    "Reducing the hardness of water",
+                    "Reducing pathogens to safe levels"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 90,
+                "question": "What temperature must TCS food be reheated to?",
+                "choices": [
+                    "41°F",
+                    "135°F",
+                    "155°F",
+                    "165°F"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    "12" : {
+        "title": "Practice Exam #2",
+        "questions": [
+            {
+                "questionid": 0,
+                "question": "Which group of individuals has a higher risk of foodborne illness?",
+                "choices": [
+                    "teenagers",
+                    "elderly people",
+                    "women",
+                    "vegetarians"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 1,
+                "question": "Parasites are commonly associated with?",
+                "choices": [
+                    "seafood",
+                    "eggs",
+                    "meats",
+                    "poultry"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 2,
+                "question": "Ciguatera toxin is commonly found in",
+                "choices": [
+                    "tuna",
+                    "pollock",
+                    "barracuda",
+                    "cod"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 3,
+                "question": "Which is a TCS food?",
+                "choices": [
+                    "saltines",
+                    "lettuce",
+                    "baked potato",
+                    "coffee"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 4,
+                "question": "Metal shavings are what type of contaminant?",
+                "choices": [
+                    "physical",
+                    "biological",
+                    "chemical",
+                    "cross"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 5,
+                "question": "To wash hands correctly, a food handler must first",
+                "choices": [
+                    "apply soap",
+                    "wet hands and arms",
+                    "scrub hands and arms for 10-15 seconds",
+                    "use a single-use paper towel to dry your hands"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 6,
+                "question": "What should a food service operator do to prevent the spread of hepatitis A?",
+                "choices": [
+                    "cook food to minimum warm temperatures",
+                    "select Grade A fish to reduce pathogens",
+                    "purchase food from approved, reputable suppliers",
+                    "restrict staff with juandice from the operation"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 7,
+                "question": "You see an employee handle food directly after cleaning the grease trap.  What corrective action should be taken?",
+                "choices": [
+                    "Instruct the employee to wash their hands and continue prepping the food.",
+                    "Instruct the employee to wash their hands next time, but allow them to continue their work.",
+                    "Dispose of the potentially contaminated food, and instruct the employee on proper handwashing procedure immediately.",
+                    "Disinfect the work area and utensils the employee was using and ensure the food they were prepping is cooked properly."
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 8,
+                "question": "Food that is hermetically sealed, such as ROP foods, should only be purchased from",
+                "choices": [
+                    "food manufacturers",
+                    "agency regulated, approved suppliers",
+                    "CDC regulated plants",
+                    "GMP rated plants"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 9,
+                "question": "Packaged foods are labeled in compliance with which agency?",
+                "choices": [
+                    "FDA",
+                    "CDC",
+                    "ADA",
+                    "HIPAA"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 10,
+                "question": "What task requires food handlers to wash their hands before and after doing it?",
+                "choices": [
+                    "going home",
+                    "touching clothing or aprons",
+                    "handling meats, poultry or seafood",
+                    "using chemicals that might affect food safety"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 11,
+                "question": "What will prevent customers from inadvertently consuming allergens?",
+                "choices": [
+                    "removal of jewelry by the food handler",
+                    "cleaning the kitchen floor",
+                    "consumer advisory",
+                    "management and staff knowledge of all recipe ingredients"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid":12 ,
+                "question": "What should ice be made from when it is used as a coolant in foods?",
+                "choices": [
+                    "any water source",
+                    "saline and ionized salts",
+                    "drinking water",
+                    "well water"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 13,
+                "question": "You notice that plates are not fully clean before they are sanitized in a chlorine solution. What does this mean for the sanitizing solution?",
+                "choices": [
+                    "The sanitizing solution will be less effective.",
+                    "The sanitizing solution will be more effective.",
+                    "The food particules will not adhere to the plate once sanitized.",
+                    "The detergent is working harder before sanitizing."
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 14,
+                "question": "What action requires a food handler to change gloves?",
+                "choices": [
+                    "The food handler is working with raw seafood at temperatures above 41°F",
+                    "The food handler is prepping raw chicken on a yellow cutting board",
+                    "The food handler has been working with raw ground beef for an hour",
+                    "The food handler is wearing gloves that have a tear"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 15,
+                "question": "What should be closed on a dumpster each time the garbage is taken to the dumpster?",
+                "choices": [
+                    "lids and side doors",
+                    "lids",
+                    "doors",
+                    "entrance door to the dumpster"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 16,
+                "question": "Which of the following would not receive a USDA inspection stamp?",
+                "choices": [
+                    "meat",
+                    "eggs",
+                    "poultry",
+                    "baking soda"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 17,
+                "question": "What is the final step in cleaning and sanitizing a table?",
+                "choices": [
+                    "air drying",
+                    "sanitizing",
+                    "drying with a clean cloth towel",
+                    "rinsing"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 18,
+                "question": "What is the minimum time an iodine sanitizer solution must be in contact with the object being sanitized?",
+                "choices": [
+                    "5 seconds",
+                    "30 seconds",
+                    "45 seconds",
+                    "60 seconds"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 19,
+                "question": "What kind of thermocouple probe should be used to check the internal temperature of a beef roast?",
+                "choices": [
+                    "infrared",
+                    "surface",
+                    "immersion",
+                    "penetration"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 20,
+                "question": "How often should the dishwasher sanitizer water temperature be checked?",
+                "choices": [
+                    "at least daily",
+                    "at least weekly",
+                    "at least monthly",
+                    "at least every three days"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 21,
+                "question": "What needs to be on the label of TCS foods in a vending machine?",
+                "choices": [
+                    "location",
+                    "prep date",
+                    "expiration date",
+                    "temperature"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 22,
+                "question": "What is the allowable margin of error for a calibrated thermometer?",
+                "choices": [
+                    "none",
+                    "+-1°",
+                    "+-2°",
+                    "+-3°"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 23,
+                "question": "What is the third compartment of the sink used for when cleaning and sanitizing items in a three-compartment sink?",
+                "choices": [
+                    "sanitizing",
+                    "air drying",
+                    "rinsing",
+                    "washing"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 24,
+                "question": "The third compartment in a three-compartment sink is used for",
+                "choices": [
+                    "air-drying",
+                    "scraping",
+                    "sanitizing",
+                    "rinsing"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 25,
+                "question": "What is the most common food illness and of special concern to food establishments?",
+                "choices": [
+                    "hepatitis b",
+                    "HIV",
+                    "norovirus",
+                    "COVID-19"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 26,
+                "question": "What organization requires SDS in all commercial establishments?",
+                "choices": [
+                    "CDC",
+                    "FDA",
+                    "USDA",
+                    "OSHA"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 27,
+                "question": "Which of the following is an appropriate way to test whether a sanitizing solution is of the proper strength?",
+                "choices": [
+                    "look at its color",
+                    "use of a sanitizer test kit",
+                    "smell the solution",
+                    "check the water hardness with which it was mixed"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 28,
+                "question": "Where should fresh ground beef be stored in a cooler?",
+                "choices": [
+                    "above shellfish",
+                    "below poultry",
+                    "below ready to eat foods",
+                    "above pork chops"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 29,
+                "question": "When should a shipment of rice boxes be rejected?",
+                "choices": [
+                    "if the boxes are water stained",
+                    "if it is not delivered at the requested time",
+                    "if the boxes do not have a temperature indicator",
+                    "if the boxes do not have cooking instructions"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 30,
+                "question": " Which guideance document would explain the design requirements for the plumbing system in a food establishment?",
+                "choices": [
+                    "CDC",
+                    "UPC",
+                    "NSF",
+                    "FDA Food Code"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 31,
+                "question": "Trash receptacles in the kitchen need to be",
+                "choices": [
+                    "metal",
+                    "plastic coated",
+                    "durable, non-absorbent and leak proof",
+                    "off the floor 6 inches"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 32,
+                "question": "What is the maximum number of days that ready to eat food prepared on site can be stored at 41°F or lower?",
+                "choices": [
+                    "3 days",
+                    "5 days",
+                    "7 days",
+                    "8 days, including the day it was made"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 33,
+                "question": "How often must food handlers change gloves if performing the same task and even if gloves show no signs of tearing or dirt?",
+                "choices": [
+                    "every 1 hour",
+                    "every 2 hours",
+                    "every 3 hours",
+                    "every 4 hours"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 34,
+                "question": "What is the minimum internal cooking temperature for green beans that are hot held for service?",
+                "choices": [
+                    "135°F",
+                    "145°F",
+                    "155°F",
+                    "165°F"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 35,
+                "question": "Hot TCS food can be held without temperature control for a maximum of",
+                "choices": [
+                    "2 hours",
+                    "4 hours",
+                    "6 hours",
+                    "8 hours"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 36,
+                "question": "Why should food handlers not wear false eyelashes?",
+                "choices": [
+                    "They can cause vision obstruction",
+                    "They can become a physical contaminant",
+                    "They can harbor germs",
+                    "They can be a distraction to other workers"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 37,
+                "question": " A HACCP Critical Control Point (CCP) is",
+                "choices": [
+                    "a plan identifying hazards and preventive measures",
+                    "a step or procedure in the flow of food at which a hazard can be prevented, eliminated, or reduced to safe levels",
+                    "a way establishing regulations",
+                    "a method of for taking corrective actions"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 38,
+                "question": "What food may be re-served to customers?",
+                "choices": [
+                    "uneaten bread",
+                    "unused, uncovered condiments",
+                    "unopened prepackaged food",
+                    "returned but unused whole fruit garnishes"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 39,
+                "question": "When is a necessary medical alert bracelet allowed to be worn on the wrist by food handlers?",
+                "choices": [
+                    "only with a written note from the medical practitioner",
+                    "never",
+                    "when it is cleaned and sanitized",
+                    "after prepping ready to eat foods"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 40,
+                "question": "What method should never be used to thaw food?",
+                "choices": [
+                    "place the item on the counter until it thaws out",
+                    "place the item in a cooler",
+                    "use cooking as part of the thawing process",
+                    "microwave the item"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 41,
+                "question": "How long can TCS food be stored before it requires a label with the expiration date?",
+                "choices": [
+                    "32 hours",
+                    "24 hours",
+                    "8 hours",
+                    "4 hours"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 42,
+                "question": "Cold TCS food should be received at or under ________.",
+                "choices": [
+                    "50˚F",
+                    "45˚F",
+                    "41˚F",
+                    "32˚F"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 43,
+                "question": "What is the minimum water temperature required when using hot water to sanitize objects in a three compartment sink?",
+                "choices": [
+                    "100°F",
+                    "110°F",
+                    "171°F",
+                    "180°F"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 44,
+                "question": "If a food contact surface is in constant use, how often should it be cleaned and sanitized?",
+                "choices": [
+                    "every 2 hours",
+                    "every 4 hours",
+                    "every 6 hours",
+                    "every 8 hours"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 45,
+                "question": "What is a basic characteristic of a virus?",
+                "choices": [
+                    "destroyed by cooking",
+                    "requires a living host to grow",
+                    "commonly found in pasteurized beef",
+                    "grows in daylight"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 46,
+                "question": "What does the L stand for in the FDA's ALERT tool?",
+                "choices": [
+                    "Listen",
+                    "Learn",
+                    "Limit",
+                    "Look"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 47,
+                "question": "Where should staff members eat, drink, smoke or chew gum?",
+                "choices": [
+                    "by the handwashing sink",
+                    "in dish washing areas",
+                    "in the receiving area",
+                    "in designated areas"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 48,
+                "question": "What should a three compartment sink used for?",
+                "choices": [
+                    "hand washing and washing food",
+                    "washing hands",
+                    "washing dishes",
+                    "washing hands and dishes"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 49,
+                "question": "A pre-school food service manager protects children by",
+                "choices": [
+                    "serving pasteurized milk",
+                    "serving natural sprouts",
+                    "serving whole unpasteurized juices",
+                    "serving rare steak"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 50,
+                "question": "What is the best way to prevent the spread of viruses?",
+                "choices": [
+                    "exclude all food handlers from the operation",
+                    "practice correct and frequent hand washing",
+                    "refrigerate all ready to eat TCS foods",
+                    "maintain current time and temperature logs"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 51,
+                "question": "Cooked shell eggs to be hot held for service should first reach a minimum internal temperature of",
+                "choices": [
+                    "165°F",
+                    "155°F",
+                    "145°F",
+                    "135°F"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 52,
+                "question": " Which is a TCS food?",
+                "choices": [
+                    "strawberry",
+                    "peanut",
+                    "bowl of rice",
+                    "saltines"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 53,
+                "question": "What is necessary if food does not reach the correct cooking temperature?",
+                "choices": [
+                    "close the operation",
+                    "clean and sanitize all surfaces",
+                    "take corrective action",
+                    "throw out the food"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 54,
+                "question": "Water at a hand washing station must reach a temperature of at least",
+                "choices": [
+                    "98°F",
+                    "100°F",
+                    "110°",
+                    "171°F"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 55,
+                "question": "Which is an example of a chemical contamination?",
+                "choices": [
+                    "dust",
+                    "saliva droplets from a sneeze",
+                    "rust",
+                    "too much dish detergent left in a glass"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 56,
+                "question": "What is the purpose of a hand antiseptic?",
+                "choices": [
+                    "reduce the amount of time needed to wash hands",
+                    "lower the number of pathogens on the skin",
+                    "eliminate the need for handwashing",
+                    "eliminate the need to use gloves"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 57,
+                "question": " Infrared thermometers measure what temperature?",
+                "choices": [
+                    "surface",
+                    "internal food",
+                    "refrigerator",
+                    "air"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 58,
+                "question": "What information must be posted on a dishwasher?",
+                "choices": [
+                    "repairman phone number",
+                    "correct settings",
+                    "date of manufacture",
+                    "schedule for cleaning and de-scaling"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 59,
+                "question": "What scenario can lead to a pest infestation?",
+                "choices": [
+                    "rotating products using the FIFO method",
+                    "cleaning up spills around garbage containers",
+                    "installing air curtains above doors",
+                    "storing recyclables in paper bags"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 60,
+                "question": "What must a food handler with a wound do to work safely with food?",
+                "choices": [
+                    "Cover the wound with gauze",
+                    "Place a bandage on the wound",
+                    "Cover the wound with an impermeable cover and use single use gloves",
+                    "Apply antiseptic oitment on the wound"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 61,
+                "question": "What must food handlers do when transferring chemicals into a new container?",
+                "choices": [
+                    "Complete the SDS log",
+                    "Label the new container with the common name of the chemical",
+                    "Transfer the chemical to the SDS",
+                    "Store the chemical on the tops helf"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 62,
+                "question": "What is the minimum internal temperature hot foods must be held at to prevent pathogens from growing?",
+                "choices": [
+                    "155°F",
+                    "145°F",
+                    "135°F",
+                    "41°F"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 63,
+                "question": "What must food handlers do when handling ready to eat food?",
+                "choices": [
+                    "Use hand antiseptic",
+                    "Use bare hands",
+                    "Wear an apron",
+                    "Use gloves, tongs, or deli sheets"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 64,
+                "question": "What process requires a variance from the regulatory authority?",
+                "choices": [
+                    "serving wild game such as deer",
+                    "serving imported cheeses",
+                    "serving shellfish from a display tank",
+                    "coloring of food to enhance presentation"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 65,
+                "question": "When cooking poultry, how long must the temperature at 165°F be held?",
+                "choices": [
+                    "10 seconds",
+                    "15 seconds",
+                    "20 seconds",
+                    "30 seconds"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 66,
+                "question": "What is the first step when cleaning and sanitizing stationary electrical equipment?",
+                "choices": [
+                    "unplug it from the electrical outlet",
+                    "pour detergent over the surface",
+                    "wipe the surface with disinfectant",
+                    "remove leftover food bits"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 67,
+                "question": "How many hours can cold food, which has been stored under refrigeration at 41°F or lower, be held without temperature control before it is sold, served, or thrown out?",
+                "choices": [
+                    "0 hours",
+                    "4 hours",
+                    "6 hours",
+                    "8 hours"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 68,
+                "question": "Why must prep tables be cleaned and sanitized between uses",
+                "choices": [
+                    "To make space to work safely",
+                    "To prevent cross contamination",
+                    "To reduce toxic metal poisoning",
+                    "To avoid time temperature abuse"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 69,
+                "question": "A local nursing home has a yearly barbecue for its residents. Which food should not be served?",
+                "choices": [
+                    "rare hamburgers",
+                    "cole slaw",
+                    "deviled eggs",
+                    "raw carrot sticks"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 70,
+                "question": "When food handlers are first practicing food safety procedures, it is important that managers",
+                "choices": [
+                    "work side by side with the food handlers during the first two weeks",
+                    "watch at a distance",
+                    "clean and sanitize all surfaces that the food handler touched",
+                    "provide immediate and specific feedback"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 71,
+                "question": "The FDA Food Code",
+                "choices": [
+                    "is a list of recommendations for local regulatory authorities to follow when inspecting for food safety",
+                    "must be updated every year",
+                    "must be used by all states",
+                    "monitors the flow of food in manufacturing facilities"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 72,
+                "question": "Which sink should be used to dispose of mop water?",
+                "choices": [
+                    "three compartment",
+                    "utility or service",
+                    "hand washing",
+                    "bathroom"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 73,
+                "question": "What is the risk if the concentration if the sanitizing solution is too low?",
+                "choices": [
+                    "it will corrode the metal on the sinks causing chemical contamination",
+                    "it may not kill bacteria",
+                    "it will discolor the dishes",
+                    "it will not rinse correctly"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 74,
+                "question": "What action requires hand washing after performing?",
+                "choices": [
+                    "shaking hands with a customer",
+                    "using the time clock then going home",
+                    "putting on gloves",
+                    "refilling the salad bar"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 75,
+                "question": "How should an item that has been recalled by its manufacturer be stored in an operation?",
+                "choices": [
+                    "together with food items that will be served",
+                    "in self sealing containers",
+                    "in a separate area from food that will be served",
+                    "in vacuum packaged, correctly labeled bags"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 76,
+                "question": "Floor equipment that is not mounted or sealed must have a clearance of at least how many inches from the floor?",
+                "choices": [
+                    "2 inches",
+                    "4 inches",
+                    "6 inches",
+                    "8 inches"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 77,
+                "question": "Cold TCS food must be received at a maximum temperature of",
+                "choices": [
+                    "45°F or lower",
+                    "41°F or lower",
+                    "32°F or lower",
+                    "0°F or lower"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 78,
+                "question": " Frozen foods must be received",
+                "choices": [
+                    "22°F",
+                    "25°F",
+                    "30°F",
+                    "frozen solid with no evidence of ice crystals"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 79,
+                "question": "Hot foods must be received at a minimum internal temperature of",
+                "choices": [
+                    "145°F",
+                    "135°F",
+                    "125°F",
+                    "115°F"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 80,
+                "question": "Shell eggs, milk and shell stock may be received at a temperature of",
+                "choices": [
+                    "45°F or lower",
+                    "55°F or lower",
+                    "60°F or lower",
+                    "65°F or lower"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 81,
+                "question": "When a food handler has finished mopping the floor",
+                "choices": [
+                    "the dirty water should be poured down the floor drain",
+                    "the mop should be sanitized",
+                    "the dirty water should be poured down the drain of the service or utility sink, the sink cleaned, the mop should be washed and rinsed and put on a hook to air dry",
+                    "the bucket with water should be left in the kitchen to pick up any future spills"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 82,
+                "question": "Food handlers hands should never touch",
+                "choices": [
+                    "the rim of a serving glass",
+                    "the prep tables",
+                    "the ice scoop",
+                    "the door handles"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 83,
+                "question": "When cooling a large roast, the first step to help in the cooling process would be to",
+                "choices": [
+                    "place it on the counter to cool",
+                    "use a rotating fan",
+                    "cut it into smaller pieces",
+                    "cover it and place it on a shelf outside to cool"
+                ],
+                "correct": 2
+            },
+            {
+                "questionid": 84,
+                "question": "Cold tuna fish salad may be stored at what temperature?",
+                "choices": [
+                    "39°F",
+                    "45°F",
+                    "51°F",
+                    "55°F"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 85,
+                "question": "When prepping food for a customer with a food allergy",
+                "choices": [
+                    "make sure that the customer knows the risks in food allergens",
+                    "first clean, rinse and sanitize all items that will be used to serve the customer",
+                    "have the customer sign a consumer advisory",
+                    "make sure gloves are worn at all times"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 86,
+                "question": "When serving cooked to order hamburgers and other cook-to-order foods",
+                "choices": [
+                    "make sure that a consumer advisory is conspicuously posted on the menu and other areas of the food establishment",
+                    "make sure that the food cooked reaches 165°F",
+                    "use a glass time temperature indicator to check the temperature of the food",
+                    "use only an open grill cooking technique"
+                ],
+                "correct": 0
+            },
+            {
+                "questionid": 87,
+                "question": "A food handler has been diagnosed with the norovirus. It is the responsibility of the manager or owner of the establishment where the food handler is working to",
+                "choices": [
+                    "notify the CDC",
+                    "restrict the food handler from working near food",
+                    "notify the FDA",
+                    "notify the local regulatory authority"
+                ],
+                "correct": 3
+            },
+            {
+                "questionid": 88,
+                "question": "Which item must be rejected?",
+                "choices": [
+                    "milk received at 45°F",
+                    "package of frozen vegetables with ice crystals on the package",
+                    "live shellfish received at 45°F",
+                    "cut melons received at 39°F"
+                ],
+                "correct": 1
+            },
+            {
+                "questionid": 89,
+                "question": "Cross contact refers to",
+                "choices": [
+                    "the intentional harm to food",
+                    "preventing food allergies",
+                    "using the same surface to cut beef and poultry without washing, rinsing and sanitizing the surface in between uses",
+                    "poor personal hygiene"
+                ],
+                "correct": 1
+            }
+        ]
+    }
+}

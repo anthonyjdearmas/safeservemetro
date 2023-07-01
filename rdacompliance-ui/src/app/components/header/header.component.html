@@ -1,0 +1,39 @@
+<nav class="navbar navbar-expand-lg bg-custom-2" [ngClass]="this.mobileMode ? 'navbar-light' : 'navbar-dark'">
+    <img src="assets/img/navbar/logo.svg" alt="Safe serve food safety certification course website logo" class="nav-brand logoimg" href="#" >
+    <img src="assets/img/navbar/logo.svg" alt="Safe serve food safety certification course website logo" class="nav-brand logoimg_mobile">
+    <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon" style="color: black;"></span>
+    </button>
+    
+    <div class="collapse navbar-collapse" id="navbarSupportedContent" [ngClass]="{ 'show': isShown }">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item" routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">
+          <a class="nav-link">Home</a>
+        </li>
+        <li class="nav-item" routerLink="/coursefinder" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">
+          <a class="nav-link">Course Options</a>
+        </li>
+        <li class="nav-item" routerLink="/enrollhere" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">
+          <a class="nav-link">Enroll Here</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://safefoodmanager.blogspot.com/" target="_blank">Blog</a>
+        </li>
+        <li class="nav-item" routerLink="/contactus" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">
+          <a class="nav-link">Contact Us</a>
+        </li>
+        <li class="nav-item" *ngIf="!isAuthenticated && mobileMode" routerLink="/login" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}" (click)="isShown=!isShown">
+          <a class="nav-link" *ngIf="!isAuthenticated && mobileMode" (click)="isShown=!isShown">Login</a>
+        </li>
+        <li class="nav-item" *ngIf="isAuthenticated && mobileMode" routerLink="/coursematerial" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}" (click)="isShown=!isShown">
+          <a class="nav-link" *ngIf="isAuthenticated && mobileMode" (click)="isShown=!isShown">Course Material</a>
+        </li>
+        <li class="nav-item" style="padding-left: 5px;">
+          <button type="button" class="btn btn-outline-light bi-arrow-up-right-circle" id ="login_btn"
+          routerLink="/login" routerLinkActive="disabled" *ngIf="!isAuthenticated && !mobileMode" [routerLinkActiveOptions]="{exact: true}">  Course Login</button>
+        </li>
+        <li class="nav-item" style="padding-left: 5px;">
+          <button type="button" class="btn btn-outline-light bi-file-text" id ="coursematerial_btn"
+          routerLink="/coursematerial" routerLinkActive="disabled" *ngIf="isAuthenticated && !mobileMode" [routerLinkActiveOptions]="{exact: true}">  Course Material</button>
+        </li>
+      </ul>

@@ -1,0 +1,84 @@
+<div class="container-fluid mt-5" id="enrollhere_frame">
+
+  <div class="alert alert-primary text-center" role="alert">
+    Below are the packages we have to offer. If you're unsure of which one to pick, then try out the
+    <a class="alert-link" routerLink="/coursefinder" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">course options finder tool</a>.
+  </div>
+    
+    <div class="row">
+        <div class="col-12 pb-5 col-lg-4 pb-lg-0 d-flex" *ngFor="let package of this.packages">
+          <div class="card">
+            <div class="text-center pt-3">
+              <img class="card-img-top rounded-circle border border" src={{package.packageEnrollHereIcon}}
+              alt="Purchase food safety servsafe course package">
+            </div>
+
+            <div class="card-body">
+              <h4 class="card-title text-center">{{package.pkgName}}</h4>
+              <hr id="pkginfo_hr">
+              <div id="pkginfo_div">
+                <p class="card-text">{{package.abtInfo}}</p>
+              </div>
+  
+              <div id="everythingincluded_div">
+                <p class="pkg_section_title"><b>Everything Included:</b></p>
+                  <ul>
+                    <li *ngFor="let feature of package.includedFeatures">{{ feature }}</li>
+                  </ul>
+              </div>
+  
+  
+              <div id="pricing_div">
+                <p class="pkg_section_title" ><b>Pricing:</b></p>
+                <span>Single: {{ package.singlePrice }}</span>
+                <span [ngStyle]="{'display': package.multiplePrice != '' ? 'block' : 'none'}">Multiple: {{package.multiplePrice}}</span>
+              </div>
+  
+              <div class="text-center" [ngStyle]="{'display': package.multiplePrice != '' ? 'block' : 'none'}">
+                <button type="button" class="btn btn-primary align-self-end" style="width: 80%;"
+                        data-toggle="modal" data-target="#multiselect_modal" (click)="setSelectedPackage(package)">
+                  Buy now
+                </button>
+              </div>
+              <div class="text-center" [ngStyle]="{'display': package.multiplePrice != '' ? 'none' : 'block'}">
+                <a href="{{package.packageCheckoutSingleURL}}" target="_blank">
+                  <button type="button" class="btn btn-primary align-self-end" style="width: 80%;">Buy Now</button>
+                </a>
+              </div>
+        </div>
+      </div> 
+    </div>
+</div>
+
+<div class="modal fade" id="multiselect_modal" tabindex="-1" role="dialog">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Will more than one person be taking the course?</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>You have selected the package: <u>{{this.selectedPackage.pkgName}}</u></p>
+        Would you like to purchase your selected ServSafe® package
+        for one person or multiple people?
+        <br>
+        <br>
+        <small>You will be redirected to the checkout page after selection.</small>
+      </div>
+      <div class="modal-footer">
+        <div class="mr-auto">
+          <a href="{{this.selectedPackage.packageCheckoutSingleURL}}" target="_blank">
+            <button type="button" class="btn btn-primary mr-auto">One Person</button>
+          </a>
+        </div>
+        <div>
+          <a href="{{this.selectedPackage.packageCheckoutMultipleURL}}" target="_blank">
+            <button type="button" class="btn btn-primary">Multiple People</button>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

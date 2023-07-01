@@ -1,0 +1,90 @@
+
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+  }
+  
+  footer {
+    margin-top: 5vh;
+  }
+  
+  .carousel-caption.text-start {
+    background-color: rgba(0, 0, 0, 0.75);
+    border-radius: 8px;
+  }
+  
+  .carousel {
+    margin-bottom: 4rem;
+  }
+
+  .carousel-inner {
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+  }
+  
+  .carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+  }
+  
+  .carousel-item {
+    height: 20rem;
+  }
+  .carousel-item > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .featurette-divider {
+    margin: 5rem 0;
+  }
+  
+  .featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -.05rem;
+  }
+
+  #steps-img {
+    width: 600px;
+    height: auto;
+  }
+  
+  @media (min-width: 40em) {
+    .carousel-caption p {
+      margin-bottom: 1.25rem;
+      font-size: 1.25rem;
+      line-height: 1.4;
+    }
+  
+    .featurette-heading {
+      font-size: 50px;
+    }
+  }
+  
+  @media (min-width: 62em) {
+    .featurette-heading {
+      margin-top: 7rem;
+    }
+  }
+
+  @media (max-width: 829px) {
+    .carosuel-card-title {
+      font-size: 8vw;
+    }
+
+    .carousel-item > img {
+      height: auto;
+      object-fit: cover;
+    }
+
+    .carousel-inner {
+      font-size: 80%;
+    }
+    
+  }

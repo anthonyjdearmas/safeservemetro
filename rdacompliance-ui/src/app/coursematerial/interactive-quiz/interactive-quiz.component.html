@@ -1,0 +1,53 @@
+<form *ngIf="quizquestions" [formGroup]="quizquestions" (ngSubmit)="submitForm()">
+    <div class="row">
+      <h1>
+        {{specifiedQuizObj.title}}
+      </h1>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        <div class="alert alert-info text-center" role="alert" *ngIf="quizState == ''">
+          Instructions: Complete this quiz by selecting the correct answer for each question. You may attempt this quiz as many times as you like. Your highest score will be recorded.
+          <span *ngIf="highestRecordedQuizScore > 0">
+            <br>
+            Your current highest score for this quiz is <strong>{{highestRecordedQuizScore}}%</strong>.
+          </span>
+        </div>
+
+        <div class="alert alert-danger text-center" role="alert" *ngIf="quizState == 'incomplete'">
+          Please select an answer for each question before submitting.
+        </div>
+
+        <div class="alert alert-success text-center" role="alert" *ngIf="quizState == 'complete'">
+          You have successfully completed this quiz. Your score is <strong>{{quizScore}}%</strong>. Review your answers below.
+        </div>
+      </div>
+    </div>
+
+    <div class="vstack gap-0" *ngFor="let questionObj of specifiedQuizObj.questions; index as j"
+    [ngClass]="j == 0 ? 'mt-0' : 'mt-5'">
+      <h6>{{(j + 1) + '. ' + questionObj.question}}</h6>
+        <div *ngFor="let choice of questionObj.choices; index as i">
+          <span id="{{questionObj.questionid + '_' + i + '_span'}}" >
+            <input type="radio" id="{{questionObj.questionid + '_' + i}}" name="{{questionObj.questionid}}" value="{{choice}}" formControlName="{{questionObj.questionid}}">
+            <label for="{{questionObj.questionid + '_' + i}}">{{choice}}</label><br>
+          </span>
+        </div>
+    </div>
+
+
+
+
+  <div class="row justify-content-center" *ngIf="quizState != 'complete'">
+    <div class="col-md-5 form-group text-center">
+      <input type="submit" value="Submit" class="btn btn-block btn-primary rounded-0 py-2 px-4">
+      <span class="submitting"></span>
+    </div>
+  </div>
+
+  <div class="row justify-content-center" *ngIf="quizState == 'complete'">
+    <div class="col-md-5 form-group text-center" (click)="restartQuiz()">
+      <input type="restart" value="Restart" class="btn btn-block btn-info rounded-0 py-2 px-4">
+    </div>
+  </div>
+</form>

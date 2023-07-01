@@ -1,0 +1,30 @@
+<html>
+  <head>
+  </head>
+  <body>
+        <h1 style="text-align:center; color:navy">
+          SafeServe Metro - Package Purchased
+        </h1>
+        <hr>
+        <p style="text-align:left">
+          Package Purchased: <b>{{packagePurchased}}</b>
+          <br>
+          <br>
+          Customer Email: <b>{{customerEmail}}</b>
+          <br>
+          <br>
+        </p>
+        <table style="width:100%; border:1px solid black; border-collapse:collapse;">
+          <tr>
+            <th style="border:1px solid black; border-collapse:collapse;">Access Code</th>
+            <th style="border:1px solid black; border-collapse:collapse;">Expiration Date</th>
+          </tr>
+          {{#each accessCodes}}
+            <tr>
+              <td style="border:1px solid black; border-collapse:collapse;">{{this.accessCode}}</td>
+              <td style="border:1px solid black; border-collapse:collapse;">{{this.expirationDate}}</td>
+            </tr>
+          {{/each}}
+        </table>
+  </body>
+</html>

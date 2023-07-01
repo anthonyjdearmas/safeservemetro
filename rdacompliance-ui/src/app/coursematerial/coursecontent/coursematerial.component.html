@@ -1,0 +1,131 @@
+<div class="container-fluid mt-5" id="main_frame">
+
+<ng-container *ngIf="mobileMode">
+    <div class="row">
+        <div class="col-12">
+            <div style="width: 100%" class="btn-group" dropdown #dropdown="bs-dropdown" [autoClose]="true">
+                <button dropdownToggle type="button" 
+                   class="btn btn-primary dropdown-toggle custom-button"
+                   aria-controls="dropdown-basic">
+                   Menu <span class="caret"></span>
+                </button>
+                <ul id="dropdown-basic" *dropdownMenu class="dropdown-menu"
+                   role="menu" aria-labelledby="button-basic">
+                   <li role="menuitem">
+                        <a class="dropdown-item" 
+                        (click)="setActiveSubPage(0)" [class.active]="activeSubPage == 0" >
+                            <span class="bi bi-file-earmark-person">
+                                Study Progress
+                            </span>
+                        </a>
+                   </li>
+                   <li role="menuitem">
+                    <a class="dropdown-item"
+                    (click)="setActiveSubPage(1)" [class.active]="activeSubPage == 1">
+                        <span class="bi bi-file-text">
+                            Course Material
+                        </span>
+                    </a>
+                   </li>
+
+                   <li class="divider dropdown-divider"></li>
+
+                   <ng-container *ngFor="let quiz of eachQuizStatus; let i = index">
+                        <li class="divider dropdown-divider" *ngIf="i == 14"></li>
+                        <li role="menuitem">
+                            <a class="dropdown-item" (click)="setActiveSubPage(i+2)" [class.active]="activeSubPage == i+2">
+                                <span
+                                *ngIf="eachQuizStatus"
+                                id="{{'chapter' + (i+1) + 'quizStatus'}}" 
+                                [ngStyle]="{'color': eachQuizStatus[i] == '1' ? 'red' : eachQuizStatus[i] == '0' ? 'orange' : 'green'}"
+                                [ngClass]="{'bi bi-x-circle-fill': eachQuizStatus[i] == '1', 'bi bi-exclamation-circle-fill': eachQuizStatus[i] == '0', 'bi bi-check-circle-fill': eachQuizStatus[i] == '2'}">
+                                </span>
+                                {{jsonQuizData[i+1].title}}
+                            </a>
+                        </li>
+                    </ng-container>
+
+                   <li class="divider dropdown-divider"></li>
+                   <li role="menuitem"><a class="dropdown-item" (click)="manualLogout()">Logout</a>
+                   </li>
+                </ul>
+             </div>
+        </div>
+    </div>
+</ng-container>
+
+
+    <div class="row">
+        <div class="col-12 col-lg-3" id="side_panel" *ngIf="!mobileMode">
+        <div class="list-group">
+            <a (click)="setActiveSubPage(0)" [class.active]="activeSubPage == 0" class="list-group-item list-group-item-action" aria-current="true">
+                <span class="bi bi-file-earmark-person">
+                    Study Progress
+                </span>
+            </a>
+            <a (click)="setActiveSubPage(1)" [class.active]="activeSubPage == 1" class="list-group-item list-group-item-action" aria-current="true">
+                <span class="bi bi-file-text">
+                    Course Material
+                </span>
+            </a>
+
+            <li class="divider dropdown-divider"></li>
+            
+            <ng-container *ngFor="let quiz of eachQuizStatus; let i = index">
+                <li class="divider dropdown-divider" *ngIf="isWhereExamsStart(i)"></li>
+                <a class="list-group-item list-group-item-action"
+                    (click)="setActiveSubPage(i+2)"
+                    [class.active]="activeSubPage == i+2">
+                    <span
+                    (*ngIf)="eachQuizStatus"
+                    id="{{'chapter' + (i+1) + 'quizStatus'}}"
+                    [ngStyle]="{'color': eachQuizStatus[i] == '1' ? 'red' : eachQuizStatus[i] == '0' ? 'orange' : 'green'}"
+                    [ngClass]="{'bi bi-x-circle-fill': eachQuizStatus[i] == '1', 'bi bi-exclamation-circle-fill': eachQuizStatus[i] == '0', 'bi bi-check-circle-fill': eachQuizStatus[i] == '2'}">
+                    </span>
+                    {{jsonQuizData[i+1].title}}
+                </a>
+            </ng-container>
+
+            <li class="divider dropdown-divider"></li>
+            <button type="button" class="btn btn-danger" (click)="manualLogout()">Logout</button>
+    </div>
+
+    </div>
+        <div class="col-12 col-lg-9 mt-5 mt-lg-0" id="main_panel">
+            <app-accountoverview 
+            *ngIf="activeSubPage == 0" [mobileMode]="mobileMode" ></app-accountoverview>
+            
+            <div class="container-fluid" *ngIf="activeSubPage == 1">
+                <div class="row">
+                    <h1>
+                        <span class="bi bi-file-text">
+                            Course Material
+                        </span>
+                    </h1>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-12">
+                        <mat-tab-group>
+                            <mat-tab id="chapter_tab" *ngFor="let item of items; let i = index" label="Chapter {{items[i]}}">
+                                <iframe [src]="getSafeUrl('assets/tenant-info/coursepdf/chapter' + (i + 1) + '.pdf')" style="width: 100%; height: 600px;"></iframe>
+                                <a [href]="'assets/tenant-info/coursepdf/chapter' + (i + 1) + '.pdf'" download="chapter{{i + 1}}.pdf">
+                                    <button type="button" class="btn btn-primary" style="width: 100%;">
+                                        Download Chapter {{items[i]}}
+                                    </button>
+                                </a>
+                            </mat-tab>
+                        </mat-tab-group>
+                    </div>
+                </div>
+            </div>
+
+            <app-interactive-quiz *ngIf="activeSubPage > 1" [requestedQuiz]="requestedQuiz"></app-interactive-quiz>
+
+        </div>
+    </div>
+
+
+
+</div>
+

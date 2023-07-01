@@ -1,0 +1,13 @@
+input {
+    margin-right: 5px;
+}
+
+.chosen-answer {
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.correct-answer {
+    font-weight: bold;
+    color: #008000;
+}

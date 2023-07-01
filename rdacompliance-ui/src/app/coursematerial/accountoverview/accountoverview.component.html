@@ -1,0 +1,153 @@
+<div class="container-fluid" *ngIf="this.readAllQuizData">
+            <div class="row">
+                <h1>
+                    <span class="bi bi-file-earmark-person">
+                        Study Progress
+                    </span>
+                </h1>
+            </div>
+            <hr>
+            <div class="row justify-content-center pb-5">
+                <div class="alert alert-primary text-center" role="alert">
+                    Below is the progress you've made so far. It is highly suggested you study before taking the exam. Study the course material and then take the quizzes.
+                </div>
+            </div>
+            <div class="row vertical-center">
+                <div class="col-sm-12 col-lg text-center">
+                    <h4>
+                        <span class="badge badge-pill badge-primary">
+                            <span class="bi bi-person"></span>
+                            Access Code:
+                        </span>
+                    </h4>
+                    <h5>{{readAccessCode}}</h5>
+                    <hr>
+                    <h4>
+                        <span class="badge badge-pill badge-secondary">
+                            <span class="bi bi-calendar3"></span>
+                            Access Code Expiration Date:
+                        </span>
+                    </h4>
+                    <h5>{{readExpirationDate}}</h5>
+                    <hr>
+                    <h4>
+                        <span class="badge badge-pill" 
+                            [ngClass]="{'badge-danger': readDaysBeforeExpiration >= 0 && readDaysBeforeExpiration <= 30, 'badge-success': readDaysBeforeExpiration > 30}">
+                            <span class="bi bi-clock"></span>
+                            Days Left Before Expiration:
+                        </span>
+                    </h4>
+                    <h5>{{readDaysBeforeExpiration}} days</h5>
+                </div>
+                <div class="col-sm-6 col-lg text-center pt-5 pt-md-0">
+                    <ng-container >
+                        <circle-progress
+                        [percent]="averageQuizScorePercentage"
+                        [radius]="100"
+                        [outerStrokeWidth]="16"
+                        [innerStrokeWidth]="8"
+                        [outerStrokeColor]="getProgressBarColor(averageQuizScorePercentage)"
+                        [innerStrokeColor]="getProgressBarColor(averageQuizScorePercentage)"
+                        [animation]="true"
+                        [animationDuration]="300"
+                        [responsive]="false"
+                        [outerStrokeWidth]="10"
+                        [innerStrokeWidth]="1"
+                        [subtitle]="'correct'">
+                        </circle-progress>
+                        <h5>Quiz Score Average:</h5>
+                        <h6>{{averageQuizScorePercentage}}%</h6>
+                    </ng-container>
+                </div>
+                <div class="col-sm-6 col-lg text-center pt-5 pt-md-0">
+                    <ng-container>
+                        <circle-progress
+                        [percent]="(numberOfQuizzesCompleted / totalNumberOfQuizzes * 100)"
+                        [radius]="100"
+                        [outerStrokeWidth]="16"
+                        [innerStrokeWidth]="8"
+                        [outerStrokeColor]="getProgressBarColor((numberOfQuizzesCompleted / totalNumberOfQuizzes * 100))"
+                        [innerStrokeColor]="getProgressBarColor((numberOfQuizzesCompleted / totalNumberOfQuizzes * 100))"
+                        [animation]="true"
+                        [animationDuration]="300"
+                        [responsive]="false"
+                        [outerStrokeWidth]="10"
+                        [innerStrokeWidth]="1"
+                        [subtitle]="'completed'">
+                        </circle-progress>
+                    </ng-container>
+                    <h5>Quizzes Completed:</h5>
+                    <h6>{{numberOfQuizzesCompleted}} out of {{totalNumberOfQuizzes}} quizzes</h6>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-6 col-lg pt-5 pt-md-0" *ngIf="!mobileMode">
+                    <span>
+                        <h6>
+                            <span class="bi bi-x-circle-fill" style="color: red;"></span> = Insufficent Score
+                        </h6>
+                        <h6>
+                            <span class="bi bi-exclamation-circle-fill" style="color: orange;"></span> = Not yet attempted
+                        </h6>
+                        <h6>
+                            <span class="bi bi-check-circle-fill" style="color: green;"></span> = Completed/Passed
+                        </h6>
+                    </span>
+                </div>
+                <div class="col-sm-6 col-lg text-center pt-5 pt-md-0" [ngStyle]="!mobileMode ? {'border-top': '1px dotted grey'} : {}">
+                    <ng-container>
+                        <circle-progress
+                        [percent]="averageExamScorePercentage"
+                        [radius]="100"
+                        [outerStrokeWidth]="16"
+                        [innerStrokeWidth]="8"
+                        [outerStrokeColor]="getProgressBarColor(averageExamScorePercentage)"
+                        [innerStrokeColor]="getProgressBarColor(averageExamScorePercentage)"
+                        [animation]="true"
+                        [animationDuration]="300"
+                        [responsive]="false"
+                        [outerStrokeWidth]="10"
+                        [innerStrokeWidth]="1"
+                        [subtitle]="'completed'">
+                        </circle-progress>
+                    </ng-container>
+                    <h5>Practice Exam Score Average:</h5>
+                    <h6>{{averageExamScorePercentage}}%</h6>
+                </div>
+                <div class="col-sm-6 col-lg text-center pt-5 pt-md-0" [ngStyle]="!mobileMode ? {'border-top': '1px dotted grey'} : {}">
+                    <ng-container>
+                        <circle-progress
+                        [percent]="(numberOfExamsCompleted / totalNumberOfExams * 100)"
+                        [radius]="100"
+                        [outerStrokeWidth]="16"
+                        [innerStrokeWidth]="8"
+                        [outerStrokeColor]="getProgressBarColor((numberOfExamsCompleted / totalNumberOfExams * 100))"
+                        [innerStrokeColor]="getProgressBarColor((numberOfExamsCompleted / totalNumberOfExams * 100))"
+                        [animation]="true"
+                        [animationDuration]="300"
+                        [responsive]="false"
+                        [outerStrokeWidth]="10"
+                        [innerStrokeWidth]="1"
+                        [subtitle]="'completed'">
+                        </circle-progress>
+                    </ng-container>
+                    <h5>Practice Exams Completed:</h5>
+                    <h6>{{numberOfExamsCompleted}} out of {{totalNumberOfExams}} exams</h6>
+                </div>
+            </div>
+
+            <div class="row pl-5 pt-5 justify-content-center" *ngIf="mobileMode">
+                <div class="col-sm">
+                    <h6>
+                        <span class="bi bi-x-circle-fill" style="color: red;"></span> = Insufficent Score
+                    </h6>
+                    <h6>
+                        <span class="bi bi-exclamation-circle-fill" style="color: orange;"></span> = Not yet attempted
+                    </h6>
+                    <h6>
+                        <span class="bi bi-check-circle-fill" style="color: green;"></span> = Completed/Passed
+                    </h6>
+                </div>
+            </div>
+</div>

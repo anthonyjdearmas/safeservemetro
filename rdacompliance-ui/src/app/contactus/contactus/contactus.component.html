@@ -1,0 +1,71 @@
+<div class="container mt-5 contact_form"
+  style="border: 1px solid #6f6f6f; border-radius: 12px; box-shadow: 2px 2px 2px #000000; color: #004AAD;">
+  <h1 class="text-center mt-3">Contact Us</h1>
+  <hr style="width: 80%;">
+  <div class="alert alert-primary text-center" *ngIf="!showSucess && !showErrors" role="alert">
+    Fill out the information below and a ServSafe support member will respond as soon as possible!
+  </div>
+  <div class="alert alert-success text-center" *ngIf="showSucess && !showErrors" role="alert">
+    Your message has been sent to a ServSafe proctor! You will recieve a response within 24 hours.
+  </div>
+  <div class="alert alert-danger text-center" *ngIf="!showSucess && showErrors" role="alert">
+    There is a problem with one or more of the fields. Please check them below for errors.
+  </div>
+  <div class="row align-items-stretch justify-content-center no-gutters">
+    <div class="col-md-7">
+      <div class="form h-100 contact-wrap p-5">
+
+
+        <form class="mb-5" *ngIf="contactUsForm" [formGroup]="contactUsForm" id="contactForm" (ngSubmit)="submitForm()">
+          <div class="row">
+            <div class="col-md-6 form-group mb-3">
+              <label for="contactUsForm" class="col-form-label bi bi-file-earmark-person"> Full Name</label>
+              <input type="text" class="form-control" name="name" id="name" formControlName="fullName"
+                placeholder="First and last name"
+                [ngStyle]="{'background-color':((contactUsForm.controls['fullName'].status === 'INVALID') && showErrors) ? 'rgba(255, 0, 0, 0.2)' : 'white' }">
+            </div>
+            <div class="col-md-6 form-group mb-3">
+              <label for="" class="col-form-label bi bi-telephone"> Phone Number</label>
+              <input type="text" class="form-control" name="phonenumber" id="phonenumber" formControlName="phoneNumber"
+                placeholder="000-000-0000"
+                [ngStyle]="{'background-color':((contactUsForm.controls['phoneNumber'].status === 'INVALID') && showErrors) ? 'rgba(255, 0, 0, 0.2)' : 'white' }">
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-md-12 form-group mb-3">
+              <label for="contactUsForm" class="col-form-label bi bi-envelope"> Email Address</label>
+              <input type="email" class="form-control" name="email" id="email" formControlName="emailAddress"
+                placeholder="Your email"
+                [ngStyle]="{'background-color':((contactUsForm.controls['emailAddress'].status === 'INVALID') && showErrors) ? 'rgba(255, 0, 0, 0.2)' : 'white' }">
+            </div>
+          </div>
+
+          <div class="row mb-5">
+            <div class="col-md-12 form-group mb-3">
+              <label for="message" class="col-form-label bi bi-chat-square-text"> Message</label>
+              <textarea class="form-control" name="message" id="message" formControlName="message" cols="30" rows="4"
+                placeholder="Write your message"
+                [ngStyle]="{'background-color':((contactUsForm.controls['message'].status === 'INVALID') && showErrors) ? 'rgba(255, 0, 0, 0.2)' : 'white' }"></textarea>
+            </div>
+
+            <div class="form-check mx-3">
+              <input class="form-check-input" type="checkbox" value="" id="sendcopy" formControlName="sendCopy">
+              <label class="form-check-label">
+                Send copy to email?
+              </label>
+            </div>
+          </div>
+
+          <div class="row justify-content-center">
+            <div class="col-md-5 form-group text-center">
+              <input type="submit" value="Submit" class="btn btn-block btn-primary rounded-0 py-2 px-4">
+              <span class="submitting"></span>
+            </div>
+          </div>
+
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

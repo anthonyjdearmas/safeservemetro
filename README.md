@@ -9,6 +9,6 @@ A single page application created for a food safety business that features an ac
  - Contact us form that will automatically send customers a copy of their form if requested and an email to web master. It also has form validation to prevent unfinished forms being submitted.
  - Fully built authentication system for user accounts/access codes that utilizes web tokens
  - Auto account generation system that communicates with Square servers via webhooks to create new access codes instantly
- - Response site design that works on phones, tablets, laptops as well as desktops.
+ - Responsive site design that works on phones, tablets, laptops as well as desktops.
 <hr>
 <footer>Due to this build using SSR, typical npm commands will not launch the project. <strong>npm run dev:ssr</strong> will be needed for local development.</footer>
